@@ -1,0 +1,8851 @@
+Abbott, BP
+Ezzeddine, R
+Tanaka, M
+Beniamini, P
+Zhu, JP
+Vassh, N
+van de Voort, F
+Tarumi, Y
+Foley, RJ
+Radziute, L
+Fischer, T
+Fontes, CJ
+Hotokezaka, K
+Capano, CD
+Yuan, Z
+Obergaulinger, M
+Ertl, T
+Kyutoku, K
+Korobkin, O
+Kawaguchi, K
+Bugli, M
+Grisoni, V
+Skuladottir, A
+Ebinger, K
+Jin, ZP
+Burrows, A
+Barbieri, C
+Cote, B
+Christie, IM
+Bonetti, M
+Coughlin, MW
+Mishenina, T
+Hamers, AS
+Marshall, JL
+Zhou, P
+Ji, AP
+Holmbeck, EM
+Wehmeyer, B
+Wu, MR
+Eichler, M
+Schonrich, RA
+Waxman, E
+Grichener, A
+Hill, V
+Ascenzi, S
+Simonetti, P
+Ardevol-Pulpillo, R
+Macias, P
+Sieverding, A
+Kasen, D
+Pakhomov, YV
+Desai, D
+Muller, B
+Haynes, CJ
+Safarzadeh, M
+Brauer, K
+Fernandez, R
+Curtis, S
+Radice, D
+Emerick, A
+Wu, YY
+Mumpower, MR
+Vigna-Gomez, A
+Sakari, CM
+Janiuk, A
+Cabezon, RM
+Camelio, G
+Roederer, IU
+Ojima, T
+Abohalima, A
+Mosta, P
+Zhu, Y
+Vescovi, D
+Rosswog, S
+Villar, VA
+Limongi, M
+Ishii, A
+Fujibayashi, S
+Gompertz, BP
+Kuroda, T
+Halevi, G
+Hansen, TT
+Siegel, DM
+Pan, KC
+Metzger, BD
+Corlies, L
+Nishimura, N
+Travaglio, C
+Rezzolla, L
+Goldstein, DA
+Wanajo, S
+Gottlieb, O
+Bauswein, A
+Perego, A
+Lippuner, J
+Margalit, B
+Nicholl, M
+Chornock, R
+Cowperthwaite, PS
+Nicholls, M
+Soares-Santos, M
+Tanvir, NR
+Richers, S
+Guilet, J
+Placco, VM
+Hirai, Y
+Yong, D
+Aoki, M
+Roberts, LF
+Bisterzo, S
+Denissenkov, PA
+Kaspi, VM
+Komiya, Y
+Montes, G
+Barnes, J
+Weisberg, JM
+Jones, S
+Goriely, S
+Mennekens, N
+Sukhbold, T
+Frischknecht, U
+Battistini, C
+Just, O
+Shibagaki, S
+Ozel, F
+Vangioni, E
+Martin, D
+Fryer, CL
+Nakamura, K
+Giacomazzo, B
+Pllumbi, E
+Li, HN
+Shen, SJ
+Ishimaru, Y
+Cescutti, G
+Ural, U
+Wanderman, D
+Ramirez-Ruiz, E
+Foglizzo, T
+Frebel, A
+Minchev, I
+Mashonkina, L
+Moriya, TJ
+Kratz, KL
+Seitenzahl, IR
+Karakas, AI
+Kaplan, JD
+Tsujimoto, T
+Grossman, D
+Matteucci, F
+Ripley, JL
+Bensby, T
+Maoz, D
+Kirby, EN
+Hebeler, K
+Zrake, J
+Piran, T
+Mello, CS
+Nomoto, K
+Aoki, W
+Hansen, CJ
+Winteler, C
+Boyd, RN
+Takiwaki, T
+Sekiguchi, Y
+Arcones, A
+Belczynski, K
+Panov, IV
+Farouqi, K
+Ludwig, HG
+Harikae, S
+Spitoni, E
+Hayek, W
+Liebendorfer, M
+Recchi, S
+Lawler, JE
+Sneden, C
+Dessart, L
+Asplund, M
+Suda, T
+Janka, HT
+Fujimoto, SI
+Surman, R
+Francois, P
+Hix, WR
+Honda, S
+Nadyozhin, DK
+Oechslin, R
+Nagataki, S
+Fujimoto, S
+Kobayashi, C
+Renaud, M
+Ivans, II
+Pruet, J
+Nishimura, S
+Reddy, BE
+Kitaura, FS
+Frohlich, C
+Marek, A
+Barklem, PS
+Cowan, JJ
+Beers, TC
+Simmerer, J
+Cohen, JG
+Terasawa, M
+Argast, D
+Cayrel, R
+De Donder, E
+Baumgarte, TW
+Freiburghaus, C
+Ritter, C
+Naiman, JP
+Spite, F
+Chruslinska, M
+Griffen, BF
+Pillepich, A
+Wang, H
+Casey, AR
+Mackereth, JT
+Harris, JA
+Vlasov, AD
+Andrews, BH
+Naab, T
+Tumlinson, J
+Pignatari, M
+Miranda, MS
+Bland-Hawthorn, J
+Koposov, SE
+Walker, MG
+Cristallo, S
+Simon, JD
+Voit, GM
+Gallagher, AJ
+Bechtol, K
+Kim, C
+Romano, D
+Somerville, RS
+Schaye, J
+Brown, TM
+Behroozi, PS
+Bergemann, M
+Peeples, MS
+Yu, YW
+Fong, W
+Lee, DM
+Berger, E
+Dominik, M
+Pilkington, K
+Wise, JH
+Bovill, MS
+Klypin, AA
+Barbuy, B
+Herwig, F
+Heger, A
+Tolstoy, E
+Collet, R
+Lai, DK
+Montes, F
+Lundqvist, M
+Fenner, Y
+Christlieb, N
+Chieffi, A
+Gratton, R
+Fields, CE
+Vagnozzi, S
+Vinyoles, N
+Hou, SQ
+Cyburt, RH
+Bramante, J
+Starrfield, S
+Trippella, O
+Chiosi, E
+Coelho, JG
+Hansen, T
+Ruiter, AJ
+Zamora, O
+Vogelsberger, M
+Wang, B
+Yates, RM
+Banerjee, I
+Bertulani, CA
+Yan, XL
+Boshkayev, K
+Haxton, WC
+Chen, X
+van Raai, MA
+Liu, JF
+Lugaro, M
+Serenelli, AM
+Khatri, R
+Iliadis, C
+Caffau, E
+Kusakabe, M
+Peng, F
+Diehl, R
+Magkotsios, G
+Voss, R
+Monaco, L
+Tur, C
+Guzik, JA
+Martin, P
+Guillochon, J
+Garcia-Hernandez, DA
+Eriksen, KA
+Izutani, N
+Komatsu, E
+Fisker, JL
+Tan, KF
+Parikh, A
+Nordhaus, J
+Wang, W
+Cui, WY
+Rapp, W
+Delahaye, F
+Bahcall, JN
+Meyner, G
+Ventura, P
+Kalogera, V
+Coc, A
+Bromm, V
+Ryan, SG
+Casanova, J
+Malone, CM
+Brown, WR
+Piersanti, L
+Althaus, LG
+Loren-Aguilar, P
+Nguyen, AN
+Gyngard, F
+Jose, J
+Maeda, K
+Tavani, M
+Dotter, A
+Townsley, DM
+Bravo, E
+Hinshaw, G
+Gehrels, N
+Christensen-Dalsgaard, J
+Straniero, O
+Kappeler, F
+Pettini, M
+Rauch, T
+Kowalski, M
+Nittler, LR
+Chamulak, DA
+Zhukovska, S
+Cottam, J
+Weinberg, NN
+Kong, AKH
+Percival, WJ
+Ropke, FK
+Peimbert, M
+Meng, XC
+Glasner, SA
+Izzard, RG
+Clayton, GC
+Bildsten, L
+Garcia-Berro, E
+Chen, WX
+Castro, M
+Bonifacio, P
+MacAlpine, GM
+Tylenda, R
+Stritzinger, M
+Schmidt, W
+Young, PA
+Buras, R
+Chang, P
+Woosley, SE
+Golombek, I
+Gamezo, VN
+Yaron, O
+Antia, HM
+Garcia-Senz, D
+Pietsch, W
+Plewa, T
+Basu, S
+Marsh, TR
+Koike, O
+Clayton, DD
+Guerrero, J
+Yoshida, T
+Hernanz, M
+Kaminski, T
+Spina, L
+Jofre, P
+Goldstein, A
+Murguia-Berthier, A
+Savchenko, V
+Mazzali, PA
+Famiano, MA
+Kuffmeier, M
+Siegert, T
+Krause, MGH
+Kerzendorf, WE
+Kretschmer, K
+Hempel, M
+Nagakura, H
+Mathews, GJ
+Barkov, MV
+Mizuno, Y
+Komissarov, SS
+Gilmour, JD
+McKinney, JC
+Hawley, JF
+Sawai, H
+de Avillez, MA
+Aloy, MA
+Couch, SM
+Melson, T
+Ade, PAR
+Pizzone, RG
+Tumino, A
+Cooke, RJ
+Abdo, AA
+Lind, K
+Caciolli, A
+Noterdaeme, P
+Sbordone, L
+Izotov, YI
+Abbasi, R
+Sasaqui, T
+Hayakawa, T
+Manchester, RN
+Bennett, ME
+Maiorca, E
+Wallner, A
+El Eid, MF
+Reifarth, R
+Grevesse, N
+The, LS
+Tomyo, A
+Zevin, M
+Gabici, S
+Suzuki, T
+Glas, R
+Bartos, I
+Shanks, T
+Leung, SC
+Meisel, Z
+Maiolino, R
+Kable, JA
+Vartanyan, D
+Mori, K
+Mocak, M
+Pearson, JM
+Zhang, LY
+Guiglion, G
+Banerjee, P
+Ghazaryan, S
+Israel, MH
+Grimmett, JJ
+Riess, AG
+Lefloch, B
+Ritchey, AM
+Prantzos, N
+Takahashi, K
+Jerkstrand, A
+Clarkson, O
+Schwab, J
+Doherty, CL
+Choplin, A
+Cristini, A
+Matsuura, M
+Reddy, ABS
+Fonseca, E
+Aguado, DS
+Sullivan, C
+Hollek, JK
+Maurin, D
+Chen, KJ
+Fantina, AF
+West, C
+Xu, Y
+Liu, MC
+Helton, LA
+Donnelly, J
+Ivezic, Z
+Campbell, SW
+Gaidos, E
+Duprat, J
+Tatischeff, V
+Arnould, M
+Aikawa, M
+Cowley, CR
+Caniulef, DG
+Lam, YH
+Borghese, A
+Di Carlo, UN
+Udall, R
+Tagawa, H
+van Son, LAC
+Pang, PTH
+Abbott, R
+Fragione, G
+McKernan, B
+Doctor, Z
+Lin, DC
+Renzo, M
+Fishbach, M
+Jani, K
+Mapelli, M
+Farmer, R
+Romero-Shaw, IM
+Bouffanais, Y
+Baumgardt, H
+Stevenson, S
+Marchant, P
+Fuller, J
+Powell, J
+Andresen, H
+Yang, Y
+Spera, M
+Mann, CR
+Ashton, G
+Hannuksela, OA
+Zocchi, A
+Samsing, J
+Monari, G
+Mezcua, M
+Generozov, A
+Tremou, E
+Gondan, L
+Li, SS
+Hoang, BM
+Talbot, C
+Smith, GP
+Giacobbo, N
+Farr, B
+Antonini, F
+Perera, BBP
+Clesse, S
+Baldassare, VF
+Silsbee, K
+Kaaret, P
+Stone, NC
+Kimpson, TO
+Rodriguez, CL
+Hofmann, F
+Bellovary, JM
+Giersz, M
+Wang, S
+den Brok, M
+Cseh, D
+Sana, H
+Antognini, JM
+Reines, AE
+Lanzoni, B
+Lutzgendorf, N
+Bressan, A
+Dong, XB
+Miller-Jones, JCA
+Nyland, K
+Sutton, AD
+Strader, J
+Soria, R
+Servillat, M
+Feng, H
+Ball, WH
+Seth, AC
+Anderson, J
+van der Marel, RP
+Godet, O
+Holley-Bockelmann, K
+Noyola, E
+Greene, JE
+Campanelli, M
+Lodato, G
+Fregeau, JM
+Begelman, MC
+Gultekin, K
+Gebhardt, K
+Barth, AJ
+Favata, M
+Merritt, D
+Miller, MC
+Lau, MYM
+Troja, E
+Zhang, JW
+Lundquist, MJ
+Andrews, JJ
+Hosseinzadeh, G
+Koppel, S
+Pol, N
+Eldridge, JJ
+Kruckow, MU
+Landry, P
+Bray, JC
+Price-Whelan, AM
+Alsing, J
+Cameron, AD
+Stovall, K
+Tauris, TM
+Gimenez-Garcia, A
+Carrick, J
+Berry, CPL
+Falanga, M
+Pejcha, O
+Venumadhav, T
+Robitaille, TP
+Kreidberg, L
+Cannon, K
+Farr, WM
+Nissanke, S
+Lee, WH
+Freire, PCC
+Jacoby, BA
+Piro, AL
+Buckley, DAH
+Ruan, JJ
+Andreoni, I
+Utsumi, Y
+Kim, S
+Lipunov, VM
+Moharana, R
+Alexander, KD
+Blanchard, PK
+Haggard, D
+Hjorth, J
+Levan, AJ
+Margutti, R
+McCully, C
+Pan, YC
+Valenti, S
+Schulreich, MM
+Kasliwal, MM
+Ghirlanda, G
+Fry, BJ
+Ruiz, M
+Horesh, A
+Hayden, MR
+Ferdman, RD
+Madau, P
+East, WE
+Caballero, OL
+Bromberg, O
+Li, WD
+Letarte, B
+Wong, TW
+Greif, TH
+Perley, DA
+Guetta, D
+Totani, T
+Hachisu, I
+Stairs, IH
+Nakar, E
+Watson, D
+Wang, C
+Podsiadlowski, P
+Suzuki, TK
+Thorsett, SE
+Venn, KA
+Nelson, D
+Crocker, RM
+Nicholls, DC
+De Lucia, G
+Weinberger, R
+Zaritsky, D
+Sarmento, R
+Guidi, G
+Walcher, CJ
+Hirschmann, M
+Perez, AEG
+Rodriguez-Gomez, V
+Cappellaro, E
+Sijacki, D
+Jacobson, HR
+Martizzi, D
+Graur, O
+Eadie, GM
+Genel, S
+Fishlock, CK
+Taylor, M
+Hinkel, NR
+Rodney, SA
+Okumura, JE
+Torrey, P
+Marinacci, F
+Conroy, C
+Hubber, DA
+Ibeling, D
+Ramirez, I
+Dahlen, T
+Melinder, J
+Perrett, K
+Ishigaki, MN
+Adibekyan, VZ
+Johansson, J
+Barbary, K
+Guedes, J
+Kelley, LZ
+Peek, JEG
+Thomas, D
+Dilday, B
+Andrievsky, SM
+Zemp, M
+Wiersma, RPC
+Giguere, CAF
+Bazin, G
+Graves, GJ
+Botticella, MT
+Borgani, S
+Noeske, KG
+Blanc, G
+Lamia, L
+La Cognata, M
+Indelicato, I
+Hinkle, KH
+Lebzelter, T
+Abia, C
+Gratton, RG
+Palmerini, S
+Salafia, OS
+Omand, CMB
+Kimura, SS
+Suzuki, A
+Murase, K
+Lien, A
+Kisaka, S
+Kashiyama, K
+Kagawa, Y
+Kaneko, Y
+Gao, H
+Jiang, YF
+Nakamura, T
+Ackermann, M
+Rowlinson, A
+Sakamoto, T
+Shibata, M
+van Eerten, H
+Chincarini, G
+Evans, PA
+Rossi, EM
+Fan, YZ
+Ghisellini, G
+Wang, XY
+Ioka, K
+Ohsuga, K
+Covino, S
+Abeysekara, AU
+Bhalerao, V
+Bannister, KW
+Flaugher, B
+Blackburn, L
+Gruber, D
+Tunnicliffe, RL
+van Haarlem, MP
+Harrison, FA
+Barr, ED
+Wilson-Hodge, CA
+Abadie, J
+Paciesas, WS
+Wilson, WE
+Schlafly, EF
+Kocevski, D
+Lipunov, V
+Meegan, C
+Ofek, EO
+Johnston, S
+Burrows, DN
+Soderberg, AM
+Prochaska, JX
+Lazzati, D
+Minaev, PY
+Connaughton, V
+Burns, E
+Clark, J
+Lawrence, S
+Pescalli, A
+Regimbau, T
+Ciolfi, R
+Gibbons, SLJ
+Olausen, SA
+Coward, DM
+Cano, Z
+Church, RP
+Filgas, R
+Kostelecky, VA
+Krimm, HA
+Modjaz, M
+Norris, JP
+Bloom, JS
+Rees, MJ
+Gorski, KM
+Malesani, D
+Lazarus, P
+Rembiasz, T
+White, CJ
+Breu, C
+Martinez, JG
+Zanotti, O
+Paschalidis, V
+Swiggum, JK
+van Leeuwen, J
+Banik, S
+Ravi, V
+Kiziltan, B
+Steiner, AW
+Ivanova, N
+Takahashi, HR
+Frieben, J
+Abdikamalov, E
+Sumiyoshi, K
+Lynch, RS
+Bucciantini, N
+Stergioulas, N
+Weissenborn, S
+Takamoto, M
+Oslowski, S
+Kiel, PD
+Zenitani, S
+Almgren, AS
+Taniguchi, K
+Collins, DC
+Camarda, KD
+Palenzuela, C
+Keith, MJ
+Janssen, GH
+Ott, CD
+Stone, JM
+Del Zanna, L
+Corongiu, A
+Ou, SL
+Scheck, L
+Anton, L
+Gao, WH
+Anninos, P
+Alford, M
+Bejger, M
+Watts, AL
+Champion, DJ
+Abuter, R
+Bainbridge, MB
+Grieb, JN
+Prusti, T
+Psaltis, D
+Cortes, TR
+Verma, AK
+Bennett, CL
+Pitjeva, EV
+Lentati, L
+King, JA
+Liu, K
+Kanekar, N
+Gonzalez, ME
+Lambert, SB
+Murphy, TW
+Konopliv, AS
+Benkhoff, J
+Lazaridis, K
+Reynaud, S
+Fomalont, E
+Williams, JG
+Gillessen, S
+Amin, MA
+Lee, KJ
+Deller, AT
+Narayan, R
+Zucker, S
+Chand, H
+Mecheri, R
+Quast, R
+Abbott, TMC
+Efstathiou, G
+Yu, H
+Joudaki, S
+Li, BJ
+Casas, S
+Wang, YT
+Alam, S
+Hildebrandt, H
+Chen, Y
+Farooq, O
+Harrison, I
+Blake, C
+Adam, R
+Aghanim, N
+Frusciante, N
+Pullen, AR
+Hu, B
+Okumura, T
+Krause, E
+Shirasaki, M
+Winther, HA
+Eifler, T
+Kirk, D
+van Engelen, A
+Keisler, R
+Ross, AJ
+Kase, R
+Rest, A
+Betoule, M
+Anderson, L
+Oka, A
+Samushia, L
+Jain, B
+Puchwein, E
+de la Torre, S
+Heymans, C
+Benjamin, J
+Kilbinger, M
+Simpson, F
+Dawson, KS
+Padmanabhan, N
+Troxel, MA
+Giannantonio, T
+Freedman, WL
+Chuang, CH
+Jennings, E
+Majerotto, E
+Tojeiro, R
+Beutler, F
+Laszlo, I
+Kwan, J
+Bekenstein, JD
+Soker, N
+Schaffer, KK
+Chen, G
+Papai, P
+Conley, A
+Wright, EL
+Wang, Y
+Schrabback, T
+Reid, BA
+Babichev, E
+Joachimi, B
+Gaztanaga, E
+Hao, JG
+Nolta, MR
+Belokurov, V
+Faltenbacher, A
+Granett, BR
+Adelman-McCarthy, JK
+Hennawi, JF
+Hirata, CM
+Deffayet, C
+Spergel, DN
+Copeland, EJ
+Angus, GW
+Mandelbaum, R
+McDonald, P
+Astier, P
+Vielva, P
+Eisenstein, DJ
+Cole, S
+Cabanac, RA
+Chen, CH
+Colao, F
+Macias, O
+Cappelluti, N
+Del Popolo, A
+Aharonian, FA
+Albert, A
+Shah, C
+Ruchayskiy, O
+Daylan, T
+Jeltema, T
+Ajello, M
+Gu, L
+Adriani, O
+Urban, O
+Drlica-Wagner, A
+Xia, JQ
+Danninger, M
+Peter, AHG
+Fu, LP
+Bulbul, E
+de Putter, R
+Boylan-Kolchin, M
+Lovell, MR
+Actis, M
+Singal, J
+Su, M
+Pinzke, A
+Wolf, J
+Dobler, G
+Navarro, JF
+Hutsi, G
+Atwood, WB
+Randall, SW
+Tisserand, P
+Aharonian, F
+Clowe, D
+Dauphas, N
+Fienga, A
+Fienga, A
+Papenfort, LJ
+Brege, W
+Foucart, F
+Vlasenko, A
+Bovard, L
+Frensel, M
+Zhu, YL
+Lehner, L
+Kastaun, W
+Knobel, R
+Malkus, A
+Kiuchi, K
+Huang, GQ
+Giunti, C
+Tamborra, I
+Kurcewicz, J
+Mention, G
+Loens, HP
+Liu, YT
+Martinez-Pinedo, G
+Niu, ZM
+Banerjee, K
+Dietrich, T
+Zhang, R
+Rochman, D
+Qi, C
+Neilsen, D
+Read, JS
+Lackey, BD
+Flanagan, EE
+Chamel, N
+Del Santo, M
+He, JJ
+He, JJ
+Serenelli, A
+Bellini, G
+Kaether, F
+Amsler, C
+Faber, JA
+Formicola, A
+SHIBATA, M
+ZHUGE, X
+Jungclaus, A
+Sasaki, H
+Soderstrom, PA
+Watanabe, H
+Patel, Z
+Browne, F
+Taprogge, J
+Benzoni, G
+Boutoux, G
+Pehlivan, Y
+Podolyak, Z
+Jurado, B
+Loreti, FN
+Krumbholz, M
+Yamazaki, DG
+Berezhiani, Z
+Broggini, C
+Navratil, P
+Cheoun, MK
+Chakraborty, N
+Berengut, JC
+Ando, S
+Haubold, HJ
+Mosconi, M
+Lara, JF
+Lemut, A
+Cruz, J
+Serebrov, A
+Klapdor-Kleingrothaus, HV
+Yamada, K
+Malatji, KL
+Sun, LN
+Shternin, PS
+Evoli, C
+Niu, YF
+Tessler, M
+Kheswa, BV
+Aab, A
+Khan, E
+Raffelt, G
+Hornung, C
+Ozturk, FC
+Xing, YM
+Zamora, JC
+Filianin, P
+Dickel, T
+Shuai, P
+Wang, N
+Kienle, P
+Frekers, D
+Takechi, M
+Chen, L
+Sun, B
+Litvinov, YA
+Stadlmann, J
+Mezzacappa, A
+Ota, I
+Bhagwat, S
+Chatziioannou, K
+Boyle, M
+Gerosa, D
+Carullo, G
+Lower, ME
+Byrnes, CT
+Berti, E
+Healy, J
+Ng, KKY
+Varma, V
+Jimenez-Forteza, X
+Bohe, A
+Babak, S
+Lovelace, G
+Carr, B
+Mishra, CK
+Klimenko, S
+Husa, S
+Khan, S
+Singer, LP
+Graff, PB
+Cornish, NJ
+Aasi, J
+Veitch, J
+Schmidt, P
+Acernese, F
+Agathos, M
+Hinder, I
+Pekowsky, L
+Kelly, BJ
+Li, TGF
+Kamaretsos, I
+Pan, Y
+Gair, JR
+Punturo, M
+Lousto, CO
+Arun, KG
+Hannam, M
+Blanchet, L
+Blanchet, L
+Buonanno, A
+Baker, J
+Biscans, S
+Kumar, B
+Davis, D
+Roy, S
+Nagar, A
+Dudi, R
+Carney, MF
+Zhu, XJ
+Nitz, AH
+Viets, AD
+Cahillane, C
+Callister, TA
+van Oeveren, ED
+Messick, C
+Essick, R
+Steinhoff, J
+Usman, SA
+Adams, T
+Yagi, K
+Effler, A
+Privitera, S
+Hooper, S
+Allen, B
+Damour, T
+Luan, J
+Vines, J
+Harry, IW
+Mikoczi, B
+POISSON, E
+CUTLER, C
+SATHYAPRAKASH, BS
+Willems, B
+Morales, AI
+Davies, PJ
+Dracoulis, GD
+Lorusso, G
+Mazzocchi, C
+Martorana, NS
+Massimi, C
+Adam, J
+Lombardo, I
+Sugimura, H
+Schurmann, D
+Russotto, P
+Andronic, A
+Feng, ZQ
+Hanauske, M
+Takami, H
+Inoue, S
+White, DJ
+DAMOUR, T
+Le Poncin-Lafitte, C
+Hees, A
+Kawamura, T
+Kahya, EO
+Williamson, AR
+Was, M
+Mirshekari, S
+Bailey, QG
+Bugner, M
+Bernuzzi, S
+Maione, F
+Endrizzi, A
+Haas, R
+Sennett, N
+Clark, JA
+De Pietri, R
+Ramazanoglu, FM
+Noble, SC
+Tacik, N
+Doneva, DD
+Etienne, ZB
+Tsokaros, A
+Ponce, M
+Takami, K
+Dolan, SR
+Sampson, L
+Bini, D
+Muhlberger, CD
+Moldenhauer, N
+Wade, L
+Franci, L
+Ossokine, S
+Pannarale, F
+Tsatsin, P
+Galeazzi, F
+Dionysopoulou, K
+Cardall, CY
+Barausse, E
+Reisswig, C
+Gold, R
+Zlochower, Y
+Buchman, LT
+Maselli, A
+Cao, ZJ
+Loffler, F
+Uryu, K
+Weyhausen, A
+Thierfelder, M
+Baiotti, L
+Andersson, N
+Alic, D
+Kellerman, T
+Bona, C
+Santamaria, L
+Hinderer, T
+Corvino, G
+Sorkin, E
+Yoo, CM
+Millmore, ST
+Binnington, T
+Kramer, M
+Scheel, MA
+Duez, MD
+Arnowitt, R
+Yamamoto, T
+Farris, BD
+Brugmann, B
+Pollney, D
+Ajith, P
+Pfeiffer, HP
+Tsokaros, AA
+Lindblom, L
+Miller, M
+MARTI, JM
+Anderson, D
+Imperi, L
+Sanghai, VAA
+Yunes, N
+Wolf, P
+Delva, P
+Bartel, N
+Everitt, CWF
+Modenini, D
+Lucchesi, DM
+Foffa, S
+Shao, LJ
+Klimchitskaya, GL
+Baker, T
+Dossett, JN
+Overduin, J
+Perez, P
+Reasenberg, RD
+Wagner, TA
+Doser, M
+Amaro-Seoane, P
+Zuntz, J
+Chamberlin, SJ
+Hojjati, A
+Ali-Haimoud, Y
+Sadeghian, L
+Pani, P
+Horbatsch, MW
+Bezerra, VB
+Daniel, SF
+Nishizawa, A
+Mercuri, S
+Upadhye, A
+Stavridis, A
+Bi, XJ
+Lasky, PD
+Klinkhamer, FR
+Taylor, S
+Kobayashi, T
+Taveras, V
+Geraci, AA
+Bhat, NDR
+Tamaki, T
+Eling, C
+Moura, F
+Ashby, N
+Bolton, AS
+Goldberger, WD
+Wen, LQ
+Bambi, C
+Clifton, T
+Hoyle, CD
+Jacobson, T
+Olive, KA
+Will, CM
+BLANCHET, L
+GODONE, A
+SU, Y
+KIDDER, LE
+FINN, LS
+Caprini, C
+Akrami, Y
+Kazantzidis, L
+Cusin, G
+Gomez-Valent, A
+Visinelli, L
+Lagos, M
+Belgacem, E
+Dutta, J
+Perez-Romero, J
+Gumrukcuoglu, AE
+Bellini, E
+McManus, R
+Lin, WK
+Kennedy, J
+Raveri, M
+Yao, J
+Renk, J
+Peirone, S
+Battye, RA
+Zumalacarregui, M
+Nesseris, S
+Bose, B
+Brax, P
+Hellwing, WA
+Jimenez, JB
+De Felice, A
+Zlosnik, TG
+Valogiannis, G
+Nakamura, S
+Domenech, G
+Langlois, D
+Bettoni, D
+Nersisyan, H
+Sakstein, J
+Alonso, D
+Chamseddine, AH
+Emami, R
+Misonoh, Y
+Salzano, V
+Lombriser, L
+Kimura, R
+Perenon, L
+Pogosian, L
+Burrage, C
+Allys, E
+Barreira, A
+Bernal, JL
+Heisenberg, L
+Ben Achour, J
+Dirian, Y
+Linder, EV
+Desai, S
+Crisostomi, M
+Hull, M
+Aubourg, E
+Leonard, CD
+Xu, XD
+Umilta, C
+Vardanyan, V
+Aver, E
+Koyama, K
+Saito, R
+Mirzagholi, L
+Zolnierowski, Y
+Enander, J
+Wijenayake, T
+Narikawa, T
+Huterer, D
+Gleyzes, J
+Koennig, F
+Solomon, AR
+Amendola, L
+Capozziello, S
+Maggiore, M
+Comelli, D
+Font-Ribera, A
+Lin, K
+Dossett, J
+Taruya, A
+Yang, RJ
+Zhu, T
+Bloomfield, J
+Khosravi, N
+Dunkley, J
+Hasselfield, M
+Silvestri, A
+Okada, H
+Gubitosi, G
+Park, S
+Sawicki, I
+Gabadadze, G
+Parkinson, D
+Fasiello, M
+Appleby, SA
+Bloomfield, JK
+Huang, YQ
+Montanari, F
+Ferreira, EGM
+Trodden, M
+Song, YS
+Diaferio, A
+Blas, D
+Elizalde, E
+Zhao, GB
+Seahra, SS
+Acquaviva, V
+Wu, FQ
+Mortonson, MJ
+Wyman, M
+de Rham, C
+Armendariz-Picon, C
+Sultana, J
+Ferreira, PG
+Ferreira, PG
+Agarwal, N
+Bean, R
+Gao, XD
+Gong, JO
+Appignani, C
+Baldauf, T
+Moldenhauer, J
+Schmidt, F
+Wang, AZ
+Dubovsky, S
+Charmousis, C
+Chan, KC
+Khoury, J
+Mukohyama, S
+Ishak, M
+Chow, N
+Gong, YG
+Wu, PX
+Shtanov, Y
+Hehl, FW
+Banados, M
+Nicolis, A
+Creminelli, P
+Corradini, O
+Fang, WJ
+Dudal, D
+Ho, S
+Nojiri, S
+Bertschinger, E
+Calabrese, E
+Bamba, K
+Niz, G
+Polarski, D
+Cognola, G
+Hu, W
+Dvali, G
+Caldwell, R
+Cardoso, A
+Afshordi, N
+Dey, A
+Bourliot, F
+Tegmark, M
+Fairbairn, M
+Maartens, R
+Diaz-Rivera, LM
+Akbar, M
+Umezu, K
+Navarro, I
+Gorbunov, D
+Capri, MAL
+Calcagni, G
+Dubovsky, SL
+Easson, DA
+Corasaniti, PS
+Carroll, SM
+Nunez, A
+Meng, XH
+Vinet, J
+Lue, A
+Hindawi, A
+Keeble, JWT
+Cammarota, J
+Sato, N
+Morfouace, P
+Tsang, CY
+Albergo, MS
+Alexandru, A
+Shanahan, PE
+Aprile, E
+Roszkowski, L
+Badziak, M
+Han, CC
+Karwin, C
+Archambault, S
+Baer, H
+Baer, H
+Fornasa, M
+Neronov, A
+Horiuchi, S
+Fang, K
+Gelmini, GB
+Matsumoto, S
+Karam, A
+Aaboud, M
+Abe, K
+Adrian-Martineza, S
+Hooper, D
+Cuoco, A
+Liang, YF
+Huang, XY
+Khachatryan, V
+Bertone, G
+Aartsen, MG
+Amole, C
+Egorov, AE
+Li, S
+Cholis, I
+Savage, C
+Kakizaki, M
+Garcia, IG
+Bell, NF
+Giesen, G
+Achterberg, A
+Del Nobile, E
+Hoferichter, M
+Zhou, B
+Kumar, J
+Kavanagh, BJ
+Xiang, QF
+Gherghetta, T
+Agrawal, P
+Agnese, R
+Calore, F
+Harz, J
+Hill, RJ
+Aad, G
+Buckley, MR
+Abramowski, A
+Wang, L
+Cirelli, M
+Audren, B
+Alves, A
+Bringmann, T
+Martin, A
+Cheung, C
+Balazs, C
+Busoni, G
+Ko, P
+Lacroix, T
+Abdullah, M
+Davis, JH
+Choi, KY
+Boehm, C
+Carlson, E
+Abazajian, KN
+Bomark, NE
+Huang, P
+Hryczuk, A
+Higaki, T
+Park, JC
+Jaeckel, J
+Ishida, H
+Cornell, JM
+Crivellin, A
+Baratella, P
+Billard, J
+Adrian-Martinez, S
+Gordon, C
+Klos, P
+Cohen, T
+Gomez-Vargas, GA
+Fornengo, N
+Boliev, MM
+Viel, M
+Aalseth, CE
+Arina, C
+Feldstein, B
+Nesti, F
+Strege, C
+Bernlohr, K
+Fitzpatrick, AL
+Chatterjee, A
+Allahverdi, R
+Akula, S
+Fowlie, A
+Velten, H
+Dumont, B
+Kuzniak, M
+Buchmuller, W
+Shoemaker, IM
+Steigman, G
+Cheung, K
+Cao, JJ
+Fox, PJ
+Aleksic, J
+Rajaraman, A
+Iocco, F
+Iminniyaz, H
+Ciafaloni, P
+Goodman, J
+Belanger, G
+Fan, JJ
+Catena, R
+Kopp, J
+Feldman, D
+Jeltema, TE
+Profumo, S
+Martinez, GD
+Nezri, E
+Taoso, M
+Chen, CR
+Bernal, N
+Bergstrom, L
+Drees, M
+Dolle, EM
+Baro, N
+Bae, KJ
+Picozza, P
+Rychkov, VS
+Hisano, J
+Pradler, J
+Gelmini, G
+Barbieri, R
+Kawasaki, M
+Hubisz, J
+Birkedal-Hansen, A
+Ingelman, G
+Lyth, DH
+KANE, GL
+DREES, M
+GRIEST, K
+Juuti, K
+Navarro, M
+Abd-El-Khalick, F
+Rutten, N
+van Aalderen-Smeets, SI
+Potvin, P
+Anderhag, P
+Tavakol, M
+Fraser, BJ
+Wang, TL
+Oon, PT
+Blalock, CL
+Sellar, S
+Feniger, Y
+Lin, TJ
+Chen, SF
+Chiou, GL
+Chai, CS
+Wong, PL
+Lin, HS
+Wan, ZH
+Hong, ZR
+Chin, C
+Wong, SL
+Dogan, N
+Caleon, IS
+Wang, JJ
+Lee, MH
+Tsai, CC
+Chang, CY
+Lin, CC
+Tuan, HL
+Lingard, B
+Grek, S
+Larsson, J
+Barthelemy, RS
+Scherr, RE
+Guilfoyle, L
+Massolt, J
+Nair, A
+Berge, M
+Etkina, E
+Ding, L
+Milner-Bolotin, M
+Andersson, S
+Bennett, D
+Dowd, JE
+Evagorou, M
+Oleson, A
+Hazari, Z
+Fazio, C
+Thompson, JR
+Plomer, M
+Ball, DL
+Mishra, P
+El-Badry, AM
+Hassan, AS
+Younis, WO
+Williams, RA
+Bretin, V
+Gerbier, F
+Manes, A
+Karim, NI
+Henderson, R
+Archer, L
+Cheryan, S
+Day, J
+Nissen, JM
+Traxler, AL
+Flowers, AM
+Masika, R
+Wang, MT
+Bates, SP
+Yeager, DS
+Duckworth, AL
+Carlone, HB
+Hidi, S
+Wigfield, A
+Zimmerman, BJ
+STEELE, CM
+Ivie, R
+Raelin, JA
+Marchand, GC
+Zeldin, AL
+Terrana, A
+Sayer, R
+Leung, ACK
+Mason, AJ
+Marshman, E
+Lin, SY
+Gladding, G
+Schroeder, N
+Laws, PW
+Docktor, JL
+Chen, ZZ
+Fraser, JM
+Seidel, SB
+Kennedy, EM
+Noack, A
+Lasry, N
+Moos, DC
+Rimoldini, LG
+Klein, JD
+Smith, JL
+Rodriguez, I
+Yerushalmi, E
+Kim, HS
+Wilkerson-Jerde, MH
+Won, M
+Narciss, S
+Singh, C
+Ferla, J
+Jackson, DL
+Schreiber, JB
+Paas, F
+Leahy, W
+De Bruin, ABH
+Hmelo-Silver, CE
+Harden, RM
+Ley, K
+Moller, AP
+Perrett, DI
+Botwin, MD
+BITTLES, AH
+DUGATKIN, LA
+Elliot, AJ
+Swami, V
+Setchell, JM
+Waitt, C
+Gangestad, SW
+Weeden, J
+Corneille, O
+Hill, RA
+Jones, JT
+Roberts, SC
+Kniffin, KM
+Bullivant, SB
+Marcus, DK
+Huber, DE
+Ohman, A
+Marcos, S
+Keltner, D
+Slob, AK
+BARGH, JA
+SILLENTULLBERG, B
+CALDWELL, JA
+DION, K
+Garcia, CM
+Rhodes, G
+Penton-Voak, IS
+Simmons, LW
+Valentine, T
+Koehler, N
+Honekopp, J
+Reber, R
+Neave, N
+Little, AC
+Grammer, K
+Swaddle, JP
+Aharon, I
+Morris, PE
+Hume, DK
+Tomkinson, GR
+Langlois, JH
+Scheib, JE
+Rikowski, A
+Flint, J
+Rubenstein, AJ
+SWADDLE, JP
+SAMUELS, CA
+KOESLAG, JH
+Reis, SM
+Halpern, Diane F
+Handelsman, J
+Hannover, B
+Pajares, F
+Salas-Zapata, WA
+Wieman, CE
+Chen, Z
+Klassen, RM
+Luft, JA
+MACKINNON, DP
+BENTLER, PM
+Young, DM
+Ceci, SJ
+Bolker, BM
+Cohen, GL
+Lorenzo, M
+Sawtelle, V
+Glynn, SM
+Eddy, SL
+Traxler, A
+Morice, J
+Zhu, GT
+Kim, MC
+Greene, JA
+Mason, A
+Park, SI
+Demetriadis, SN
+Hulleman, CS
+Mangels, JA
+Walton, GM
+Diekman, AB
+Chi, MTH
+MacPhee, D
+Jagacinski, CM
+Tatum, HE
+Ramsey, LR
+Shively, RL
+Townley, G
+Lauer, S
+Shapiro, JR
+Moss-Racusin, CA
+Good, C
+London, B
+Holleran, SE
+Miyake, A
+Long, M
+van den Bergh, L
+Conger, D
+Wolfe, J
+Brodish, AB
+Murphy, MC
+Kiefer, AK
+Costa, PT
+Ahlqvist, S
+Tine, M
+Thoman, DB
+Woodcock, A
+Lawrence, JS
+Pastor, DA
+Lepper, MR
+Seymour, E
+AMABILE, TM
+GREENE, D
+Cech, EA
+Metz, AM
+Ghavami, N
+Labov, JB
+Su, R
+Hausmann, LRM
+Leaper, C
+Gunderson, EA
+Cherney, ID
+Tomasetto, C
+Abele, AE
+Cvencek, D
+Luo, WS
+Juvonen, J
+Li, YB
+Brown, CS
+Wai, J
+Maltese, AV
+Frenzel, AC
+Else-Quest, NM
+Gottfried, AE
+Tyson, DF
+Park, G
+Hyde, JS
+Frank, KA
+Roseth, CJ
+Crosnoe, R
+Huguet, P
+Weis, SE
+Friedel, JM
+Patrick, H
+Blackwell, LS
+Urdan, T
+Tai, RH
+Durik, AM
+Martens, A
+Lubinski, D
+Quaiser-Pohl, C
+Malouf, MA
+Lesko, AC
+Bouchey, HA
+Levine, SC
+Bhanot, R
+Tenenbaum, HR
+Jacobs, JA
+Turner, SL
+Schmader, T
+Jacobs, JE
+Jodl, KM
+Gur, RC
+Inzlicht, M
+Bussey, K
+Mueller, CM
+Frome, PM
+Wenneras, C
+Gill, H S
+CHEN, CS
+ECCLES, JS
+CASEY, MB
+STEVENSON, HW
+HARSHMAN, RA
+Murray, C
+Downer, JT
+Doumen, S
+Daly, BP
+Elias, MJ
+McCombs, BL
+Garner, PW
+Valiente, C
+Bos, HMW
+Howes, C
+Graziano, PA
+Pianta, RC
+Henricsson, L
+Cole, DA
+Allhusen, V
+Trzesniewski, KH
+Hamre, BK
+MacKinnon, D P
+Marshman, EM
+Vincent-Ruz, P
+Madsen, A
+Brewe, E
+Hurtado, S
+Galway, LP
+Wright, CD
+Robnett, RD
+Theobald, R
+Villafane, SM
+Concannon, JP
+Creech, LR
+Sonnert, G
+Nosek, BA
+Ong, M
+Kost-Smith, LE
+Usher, EL
+Roorda, DL
+Riegle-Crumb, C
+Marsh, HW
+Perna, L
+Turner, JC
+Gasiewski, JA
+Byars-Winston, A
+Chang, MJ
+Nagy-Shadman, E
+Weaver, RR
+Umbach, PD
+Pike, GR
+Handelsman, MM
+Fredricks, JA
+Jeong, A
+Varelas, M
+Taconis, R
+Miller, PH
+Ayene, M
+Hrepic, Z
+Baily, C
+Russ, RS
+Brookes, DT
+Levrini, O
+van Zee, EH
+Jeppsson, F
+Henderson, C
+Camacho, CJ
+Gamberale-Stille, G
+WHITFIELD, TWA
+Khuyen, NTT
+Hernandez, PR
+Stout, JG
+Puts, DA
+Felner, RD
+Gregory, A
+Godwin, A
+Eris, O
+Meyers, KL
+Marra, RM
+Li, J
+Lock, RM
+Stewart, J
+Miller, K
+Lovecchio, K
+Deng, F
+Irzik, G
+Vosniadou, S
+Jones, BC
+FORTNEY, SM
+Zebrowitz, LA
+Gosling, C
+Seeley, L
+Kaltakci-Gurel, D
+Otero, V
+Ryan, RM
+Moll, RF
+Thornhill, R
+Kanda, N
+BROOKES, M
+CUNNINGHAM, MR
+Gerhardt, MW
+Brown, ER
+Brownell, SE
+Isbell, LA
+Nye, CD
+McGee, R
+Barkoukis, V
+Balfanz, R
+Corby, BC
+Hines, M
+Crowley, K
+JOHNSON, O
+Jerome, EM
+Bergin, C
+Ewing, AR
+Pallock, LL
+Willoughby, SD
+Petersen, S
+Meltzer, DE
+Christensen, WM
+Cochran, MJ
+Watt, HMG
+Akos, P
+DeVore, S
+Azevedo, R
+Otta, E
+Lynn, BM
+WATSON, PJ
+TEASDALE, JD
+Kessels, U
+Sugimoto, CR
+Sikora, J
+Quan, GM
+Osborne, J
+Kaplowitz, MD
+Chalabaev, A
+Simpkins, SD
+Martin, AJ
+Stipek, D
+Gruman, DH
+HOWES, C
+Buhs, ES
+Svanum, S
+Urhahne, D
+Gupta, A
+Hall, R
+Svensson, L
+Chen, CM
+Freeman, Scott
+Hughes, JN
+Stoet, G
+Giuliani, SA
+Mohr, P
+Sadhukhan, J
+Sadhukhan, J
+Tang, TL
+Reiter, MP
+Kirsebom, OS
+Sacomano , FL
+Horowitz, CJ
+Larsen, AC
+Kajino, T
+Tews, I
+Dunlop, R
+Manning, B
+Schmitt, C
+Neufcourt, L
+Pitrou, C
+De, S
+Orford, R
+Vilen, M
+Most, ER
+Annala, E
+Fattoyev, FJ
+Siegl, K
+Livio, M
+Schmidt, R
+Bollig, R
+Fuller, GM
+Guerrero, C
+Spyrou, A
+Oertel, M
+Schwengner, R
+Wu, J
+Thielemann, FK
+Zhang, CL
+Shafer, T
+Baldo, M
+Caballero-Folch, R
+Liddick, SN
+Moller, P
+Marketin, T
+Mustonen, MT
+Mirizzi, A
+Schmidt, KH
+Atanasov, D
+Mendoza-Temis, JD
+Potel, G
+Avrigeanu, V
+Rodriguez, TR
+Rrapaj, E
+Ozen, C
+Brown, BA
+Beard, M
+Tornyi, TG
+Litvinova, E
+Rauscher, T
+Hillebrandt, W
+Yee, RM
+Eliseev, S
+Zhi, Q
+Blaum, K
+Audi, G
+Wang, M
+Kozub, RL
+Ono, M
+Petermann, I
+Cole, AL
+Quinn, M
+Escher, JE
+Erler, J
+Kotake, K
+Liu, M
+Juodagalvis, A
+Chawla, S
+Hosmer, P
+Hudepohl, L
+Kizivat, LT
+Hatarik, R
+Kiss, GG
+Pereira, J
+Sagert, I
+Borzov, IN
+Koning, AJ
+Sun, BH
+Anderson, M
+Alhassid, Y
+Grawe, H
+Forssen, C
+Mocelj, D
+Qian, YZ
+Yakovlev, DG
+Rehse, SJ
+Adrich, P
+McLaughlin, GC
+Guttormsen, M
+Caurier, E
+Hosmer, PT
+Koura, H
+Knie, K
+Fogelberg, B
+Dillmann, I
+GORRES, J
+MUSTAFA, MG
+Xia, XW
+Babcock, C
+Leistenschneider, E
+Andreyev, AN
+Rodriguez-Guzman, R
+Bertsch, GF
+Welker, A
+Lascar, D
+Utama, R
+Tao, H
+Zhu, L
+Rubio, B
+Bliss, J
+Tanimura, Y
+Haverinen, T
+Zhang, HF
+Janiak, L
+Huang, WJ
+Denisov, VY
+Hung, NQ
+Schunck, N
+Lestinsky, M
+Madurga, M
+Martini, M
+Regnier, D
+Afanasjev, AV
+Penttila, H
+Zhao, J
+Klawitter, R
+Hinohara, N
+Konieczka, M
+Bulgac, A
+Watanabe, YX
+Wang, R
+Birch, M
+Vogt, A
+Scamps, G
+Akber, A
+McDonnell, JD
+Niksic, T
+Changizi, SA
+Tarpanov, D
+Aritomo, Y
+Severyukhin, AP
+Xu, ZY
+Sobiczewski, A
+Dobaczewski, J
+Lacroix, D
+Scielzo, ND
+Kortelainen, M
+Simenel, C
+Shi, Y
+Pastore, A
+Van Schelt, J
+Ito, Y
+Staszczak, A
+Kankainen, A
+Wolf, RN
+Hilaire, S
+Robledo, LM
+McCutchan, EA
+Yamagami, M
+Daoutidis, I
+Hakala, J
+Simon, VV
+Eronen, T
+Motobayashi, T
+Ozawa, A
+Kubo, T
+Triguero, CR
+Baran, A
+Estrade, A
+Younes, W
+Nikolov, N
+Reinhard, PG
+Breitenfeldt, M
+Costiris, NJ
+Pei, JC
+Baruah, S
+Smith, M
+Beun, J
+Dworschak, M
+Bollen, G
+Bonneau, L
+Terasaki, J
+Athanassopoulos, S
+Homma, H
+Long, AM
+Barbagallo, M
+Zylstra, AB
+Bergstrom, J
+Cha, SM
+deBoer, RJ
+Langer, C
+Goasduff, A
+Nguyen, NB
+Yabana, K
+Matsuo, Y
+Abe, S
+Adelberger, EG
+Saruwatari, M
+Erikson, L
+Ogata, K
+Gasques, LR
+Confortola, F
+Weber, F
+Byelikov, A
+Ruiz, C
+Das, JJ
+Schumann, F
+Woosley, S
+Baby, LT
+Ahmad, QR
+Davids, B
+Aharmim, B
+Azuma, RE
+Newton, JR
+Longland, R
+Rugel, G
+Costantini, H
+Elomaa, VV
+Weber, C
+Arpesella, C
+Heil, M
+Ugalde, C
+Chafa, A
+Strong, AW
+Buchmann, LR
+Schatz, H
+Imbriani, G
+Fox, C
+Runkle, RC
+Descouvemont, P
+Jaeger, M
+Dilling, J
+Rice, S
+Rasco, BC
+Pellereau, E
+Lica, R
+Korgul, A
+Fynbo, H
+Heine, M
+Ideguchi, E
+Truesdale, VL
+Batchelder, JC
+Zhang, YH
+Gade, A
+Tanihata, I
+Lozeva, R
+Mitchell, AJ
+Chen, RJ
+Balasi, KG
+Lee, P
+Xu, X
+Mumpower, M
+Simpson, GS
+Kurtukian-Nieto, T
+Pfeiffer, B
+Liberati, V
+Elseviers, J
+Caamano, M
+Miernik, K
+Balantekin, AB
+De Witte, H
+Blumenfeld, Y
+Gaudefroy, L
+Al-Dahan, N
+Uesaka, T
+Jones, KL
+Beene, JR
+Sarriguren, P
+Duan, HY
+Duan, H
+Wieslander, JSE
+Gaulard, C
+Steer, SJ
+Bachelet, C
+Rahaman, S
+Mukherjee, M
+Domingo-Pardo, C
+Matos, M
+Chiba, S
+Hager, U
+Rinta-Antila, S
+Vockenhuber, C
+Froese, M
+Delheij, P
+Block, M
+Muller, S
+Hornillos, MBG
+Herfurth, F
+Savajols, H
+Scherillo, A
+Kolbe, E
+Bhattacharyya, P
+Mukhamedzhanov, AM
+Lattimer, JM
+Cappuzzello, F
+Zhao, PW
+Liang, HZ
+Poulin, V
+Suno, H
+Anders, M
+Uberseder, E
+Kravchuk, PA
+Avogadro, P
+Agostini, M
+Poltoratska, I
+Kotila, J
+Tamii, A
+Garrido, E
+Menendez, J
+Fujita, Y
+Bedaque, PF
+Wang, BA
+Pospelov, M
+Jedamzik, K
+Hardy, JC
+Dubovichenko, SB
+Burtebaev, N
+Li, BA
+Kievsky, A
+Ahmed, MW
+Brown, TAD
+Amos, K
+Li, ZH
+Nagai, Y
+Schael, S
+Leonard, DS
+Meng, J
+Jaikumar, P
+Marcucci, LE
+Baumer, C
+Chen, LW
+Kudomi, N
+Zhou, SG
+Bertone, PF
+Buchmann, L
+Bang, JM
+ICHIMARU, S
+KOMAR, RJ
+SHOPPA, TD
+Lederer, C
+Koehler, PE
+Frenje, JA
+Tagliente, G
+Feinberg, G
+Andriamonje, S
+Kimura, A
+Weller, HR
+Faber, M
+Alpizar-Vicente, AM
+De Smet, L
+Couture, A
+Terlizzi, R
+Marrone, S
+Wisshak, K
+Escher, J
+Nassar, H
+Abbondanno, U
+Patronis, N
+Meissner, J
+JAAG, S
+SCHATZ, H
+VOSS, F
+KOEHLER, PE
+WISSHAK, K
+Collett, T
+Lemaitre, JF
+Blinnikov, SI
+Shen, YP
+Chien, L
+Genolini, Y
+Zickefoose, J
+Diaz-Torres, A
+Cwiok, M
+Kawanaka, N
+Titus, R
+Fang, X
+Deboer, RJ
+Deloncle, I
+Pena-Arteaga, D
+Aliotta, M
+Raduta, AR
+Carlson, J
+Sellahewa, R
+Nesterenko, DA
+Potekhin, AY
+Kopytin, IV
+Angeli, I
+Bernard, R
+Leray, S
+Roig, O
+Dupuis, M
+Fujii, K
+Gosselin, G
+Capote, R
+Herman, M
+Segawa, M
+Shizuma, T
+Goutte, H
+Langanke, K
+Zhou, X
+Kubota, Y
+Walker, PM
+Steck, M
+Cubiss, JG
+Michimasa, S
+Harding, RD
+Mougeot, M
+Puentes, D
+de Roubin, A
+Lin, YT
+San Andres, SA
+Canete, L
+Walker, P
+Manea, V
+Wollnik, H
+Aker, M
+Yue, K
+Chen, S
+Schwarz, S
+Karthein, J
+Sandler, R
+Ascher, P
+Zhang, ZY
+Ma, NN
+Glorius, J
+Durante, M
+Guadilla, V
+Rakopoulos, V
+Grigorenko, LV
+Ong, WJ
+Fu, CY
+Tarasov, OB
+Rosenbusch, M
+Hartley, DJ
+Tu, XL
+Valverde, AA
+Izzo, C
+Althubiti, NA
+Kandegedara, RMEB
+Zeng, Q
+Brodeur, M
+Lorenz, C
+Gallant, AT
+Mattera, A
+Giacoppo, F
+Schury, P
+Nowacki, F
+Mei, B
+Orrigo, SEA
+Gamage, ND
+Eibach, M
+Ruiz, RFG
+Koloczek, A
+Alanssari, M
+Kobayashi, N
+Gulyuz, K
+Kwiatkowski, AA
+Dolinskii, A
+Nortershauser, W
+Stohlker, T
+Doherty, DT
+Chowdhury, U
+Tain, JL
+Malbrunot-Ettenauer, S
+Myers, EG
+Bohm, C
+Lennarz, A
+Kreim, S
+Schultz, BE
+Macdonald, TD
+Chaudhuri, A
+Stanja, J
+Bosch, F
+Purushothaman, S
+Bustabad, S
+Shubina, D
+Lincoln, DL
+Droese, C
+Reed, MW
+Oganessian, YT
+Grieser, M
+Lapierre, A
+Bertolli, M
+Fallis, J
+Haettner, E
+Van Duppen, P
+Otsuka, T
+Rodriguez, D
+Cakirli, RB
+Otten, EW
+Blank, B
+Redshaw, M
+Geissel, H
+Dossat, C
+George, S
+Bentley, MA
+Lunney, D
+Dewey, MS
+Sanchez, R
+Samyn, M
+Geng, LS
+Weissman, L
+Kellerbauer, A
+Kettunen, H
+Rodrigues, GC
+Jensen, AS
+Giovinazzo, J
+Graham, MJ
+Purrer, M
+Giesler, M
+Tse, M
+Abbott, B
+Fedrow, JM
+Chiba, T
+Bird, S
+Zappa, F
+Alvarez-Castillo, D
+Evans, M
+Postnov, KA
+Grindlay, J
+Fitoussi, C
+Hirayama, Y
+Park, J
+Fukuda, N
+Shimizu, Y
+Olivier, L
+Suzuki, H
+Sahin, E
+Sumikama, T
+Yokoyama, R
+Gurgi, LA
+Yoshida, K
+Goigoux, T
+Bucher, B
+Prokop, CJ
+Santamaria, C
+Kondev, FG
+Flavigny, F
+Wang, HK
+Frauendorf, S
+Tsunoda, Y
+Recchia, F
+Coraggio, L
+Faestermann, T
+Vargas, CE
+Chen, FQ
+Ichikawa, Y
+Kameda, D
+Marginean, R
+Heyde, K
+Singh, BSN
+Lane, GJ
+Alvarez-Pol, H
+Naqvi, F
+Ohnishi, T
+Sarkar, S
+Flanagan, KT
+Folden, CM
+Pauwels, D
+Caceres, L
+Zagrebaev, V
+Ljungvall, J
+Sorlin, O
+Zhang, XP
+Bastin, B
+Seweryniak, D
+Hwang, JK
+Delion, DS
+Porquet, MG
+Mukha, I
+Dinca, DC
+Morita, K
+Lisetskiy, AF
+Schiffer, JP
+Plettner, C
+Bouchez, E
+WALKER, PM
+HAMAMOTO, I
+ASAHI, K
+Ferraro, F
+Morales-Gallegos, L
+Damone, L
+Buompane, R
+Cavanna, F
+Acharya, S
+Quevedo, HJ
+Torresi, D
+Honda, R
+Mascali, D
+Tsang, MB
+Di Leva, A
+Iskra, LW
+Depalo, R
+Togashi, T
+Bruno, CG
+Filipescu, D
+Feliciello, A
+Bottoni, S
+Bracco, A
+Lonardoni, D
+Tribble, RE
+Giubrone, G
+De Filippo, E
+Danielewicz, P
+Cozma, MD
+Savran, D
+Okolowicz, J
+Agnello, M
+Abrahamyan, S
+Reisdorf, W
+Roca-Maza, X
+Lanza, EG
+Gulino, M
+Sun, ZY
+Maj, A
+Xiao, ZG
+von Oertzen, W
+Aguilera, EF
+Pagano, A
+Li, TP
+Bourgoin, A
+Tsang, D
+Sutton, PJ
+Bishop, NT
+Messenger, C
+Bhowmick, B
+Zilhao, M
+Del Pozzo, W
+Chatrchyan, S
+Taranto, G
+Choptuik, MW
+Sathyaprakash, BS
+Koppitz, M
+Gonzalez, JA
+Harding, AK
+Feng, JL
+Dimopoulos, S
+Touboul, P
+Johannsen, T
+Armano, M
+Ciufolini, I
+Leefer, N
+Abramowicz, MA
+Guena, J
+Turyshev, SG
+Turyshev, SG
+Sotiriou, TP
+Yang, SQ
+Famaey, B
+Smiciklas, M
+Rievers, B
+Kleihaus, B
+Genzel, R
+Stecker, FW
+Alexander, S
+Blatt, S
+Schlamminger, S
+Tu, LC
+Kapner, DJ
+Petrov, YV
+Elliott, JW
+Stanwix, PL
+Mohr, PJ
+Peik, E
+Fischer, M
+Copi, CJ
+Shapiro, SS
+Srianand, R
+Muller, H
+Bize, S
+Chiaverini, J
+Marion, H
+Lipa, JA
+Max, K
+Chicone, C
+Schmidt-May, A
+Tan, WH
+Joyce, A
+Saltas, ID
+Avilez, A
+Hanson, D
+Weinberg, DH
+Wang, JP
+Foreman, S
+Hassan, SF
+Das, S
+Cuadros-Melgar, B
+Kiritsis, E
+Li, M
+Zuntz, JA
+Papantonopoulos, E
+Bender, CM
+Hoekstra, H
+Bridle, S
+Zhang, PJ
+Gregory, R
+Deser, S
+Kaloper, N
+Kunz, M
+Dodelson, S
+Lewis, A
+Brummer, F
+Krause, A
+Skordis, C
+Bostock, P
+Aghababaie, Y
+Nilles, HP
+Kanwar, G
+Kejzlar, V
+Sprouse, TM
+Caprio, MA
+Lasseri, RD
+Dawkins, WG
+Edelen, A
+Epelbaum, E
+Esfahani, AA
+Sambataro, M
+Ma, YF
+Ma, CW
+Catacora-Rios, M
+Steinheimer, J
+Jiang, WG
+Rodriguez, UB
+Khalek, RA
+Lim, Y
+Bernhard, JE
+Melendez, JA
+Wang, ZA
+Ekstrom, A
+Scheinker, A
+He, YY
+King, GB
+Negoita, GA
+Karpie, J
+Wesolowski, S
+Bursa, F
+Freer, M
+Lovell, AE
+Lin, HW
+Komiske, PT
+Xu, YR
+Elhatisari, S
+Ethier, JJ
+Kumericki, K
+Pratt, S
+Bhalerao, RS
+Hofler, A
+Schindler, MR
+Bazarov, IV
+Bass, SA
+Aoki, S
+Gysbers, P
+Blanton, TD
+Iritani, T
+Liu, HN
+Mai, M
+Randhawa, JS
+Andersen, C
+Drischler, C
+Stroberg, SR
+Bansal, A
+Baroni, A
+Frame, D
+Brett, R
+Reinert, P
+Gongyo, S
+Morris, TD
+Miyamoto, T
+McIlroy, C
+Piarulli, M
+Huth, L
+Hammer, HW
+Entem, DR
+Fossez, K
+Simonis, J
+Gandolfi, S
+Buraczynski, M
+Engel, J
+Rotureau, J
+Briceno, RA
+Calci, A
+Hagen, G
+Dyhdalo, A
+Long, BW
+Hergert, H
+Carlsson, BD
+Lynn, JE
+Kisamori, K
+Kirscher, J
+Furnstahl, RJ
+Barnea, N
+Gezerlis, A
+Kurth, T
+Carbone, A
+Beane, SR
+Kruger, T
+Maris, P
+Barrett, BR
+Bernard, V
+Polejaeva, K
+Machleidt, R
+Inoue, T
+Gazit, D
+Valderrama, MP
+Nogga, A
+Kim, CH
+He, S
+Wiringa, RB
+WIRINGA, RB
+STOKS, V
+Guo, XY
+Athenodorou, A
+Takaura, H
+Buras, AJ
+Capitani, S
+Seng, CY
+Colangelo, G
+Ablikim, M
+Lutz, MFM
+Dimopoulos, P
+Hansen, M
+Radici, M
+Brida, MD
+Chang, E
+Brown, MAP
+Giusti, D
+de Elvira, JR
+Amhis, Y
+Ishikawa, KI
+Boyle, PA
+Alexandrou, C
+Hansen, MT
+Boyle, P
+Bruno, M
+Acharya, NR
+Datta, A
+Dalla Brida, M
+Aaij, R
+Bernard, C
+Baikov, PA
+Herzog, F
+Sufian, RS
+Garron, N
+Patrignani, C
+Horsley, R
+Cossu, G
+Accardi, A
+Endres, MG
+Luthe, T
+Abdel-Rehim, A
+Durr, S
+Niedermayer, F
+Lucini, B
+Bai, Z
+Bhattacharya, T
+Bijnens, J
+Bailey, JA
+Helmes, C
+Dehnadi, B
+Engel, GP
+Dudek, JJ
+Carrasco, N
+Karbstein, F
+Atoui, M
+Bazavov, A
+Chowdhury, A
+Gonzalez-Alonso, M
+Buttazzo, D
+Borsanyi, S
+Brandt, BB
+Cichy, K
+Bouchard, C
+Fritzsch, P
+Bulava, J
+Kim, BH
+Herdoiza, G
+Mund, D
+Mendenhall, MP
+Bertone, V
+Bali, GS
+Ren, XL
+Dudek, J
+Della Morte, M
+Blossier, B
+Ishikawa, T
+Dinter, S
+de Divitiis, GM
+Brod, J
+Caprini, I
+Jansen, K
+Doring, M
+Hammant, TC
+Grozin, AG
+Luscher, M
+Lehner, C
+Schaefer, S
+Nguyen, OH
+Towner, IS
+Tekin, F
+Brambilla, N
+Antonelli, M
+Baron, R
+Constantinou, M
+Maas, A
+Davies, CTH
+Fukaya, H
+Anzai, C
+Smirnov, AV
+Maier, A
+Kiyo, Y
+Wilburn, WS
+Hasenfratz, P
+Toussaint, D
+Flynn, JM
+Chen, JW
+Giusti, L
+Damgaard, PH
+Shintani, E
+Noaki, J
+Kastner, A
+Bernardoni, F
+Uno, S
+Maltman, K
+Yamazaki, T
+Follana, E
+Antonio, DJ
+Oller, JA
+Basile, F
+Kuhn, JH
+Brommel, D
+Hasenfratz, A
+Kaneko, T
+Akemann, G
+Del Debbio, L
+Chetyrkin, KG
+Kniehl, BA
+Narayanan, R
+Edwards, RG
+Becirevic, D
+Aoki, Y
+Boucaud, P
+Schroder, Y
+Aubin, C
+Arnesen, CM
+Mason, Q
+Cirigliano, V
+Gockeler, M
+Okamoto, M
+Gamiz, E
+Frezzotti, R
+Khan, AA
+Heitger, J
+Jamin, M
+Roysircar, G
+Adams, WK
+Grunspan, DZ
+Perez, T
+Chemers, MM
+Rauschenberger, MM
+Crisp, RJ
+Oh, SS
+Turner, KL
+Dar-Nimrod, I
+Schwartz, SH
+Jussim, L
+Abou El-Maaref, A
+Aguilar, L
+Arcadi, G
+Eiteneuer, B
+Sirunyan, AM
+Gaggero, D
+Akerib, DS
+Tan, AD
+Liem, S
+Abdallah, H
+Aguilar, M
+Banerjee, S
+De Simone, A
+Charles, E
+Mayet, F
+Bechtle, P
+Bartels, R
+Undagoitia, TM
+Conrad, J
+Bagnaschi, EA
+Boyarsky, A
+Ellis, J
+Geringer-Sameth, A
+Vega, JP
+Streltsov, A
+Racco, D
+Choi, K
+Beneke, M
+Cahill-Rowley, M
+Buchmueller, O
+Hochberg, Y
+Accardo, L
+Hahn, T
+Craig, N
+Bernabei, R
+DiFranzo, A
+Freese, K
+Dighe, A
+El Hedri, S
+Goudelis, A
+Petraki, K
+Cabrera, ME
+Kowalska, K
+Frenk, CS
+Branco, GC
+Kadastik, M
+Kim, SC
+Graesser, ML
+Zhang, H
+Lukash, VN
+Bai, Y
+Ellwanger, U
+Beltran, M
+Massey, R
+Hall, LJ
+Freitas, A
+Goh, HS
+Donato, F
+Gleisberg, T
+Bahr, M
+Poland, D
+Acharya, BS
+Chacko, Z
+Arkani-Hamed, N
+Schmaltz, M
+Cheng, HC
+Xu, HS
+Ringle, R
+Plass, WR
+Kimura, S
+Becker, P
+Zhou, N
+Huang, CM
+Kember, D
+Conley, AM
+Harackiewicz, JM
+Eshach, H
+Kalman, CS
+Wood, AK
+Bernacki, ML
+Zwickl, BM
+Bates, S
+Hong, HY
+Reynolds, B
+DECI, EL
+Hand, B
+Brown, BR
+Li, LM
+Fredlund, T
+Colvin, KF
+Guo, J
+Issa, N
+Song, HS
+Jiang, L
+Sins, PHM
+Kalyuga, S
+Song, HD
+White, B
+Graesser, AC
+Thompson, RA
+Perrot, LJ
+Williams, MJ
+Wang, Z
+Sax, LJ
+Croft, A
+Miller, DI
+Unsworth, N
+Smyth, FL
+Clark, JK
+Rozek, CS
+Zell, E
+Koch, AJ
+Lang, C
+Litzler, E
+Tucker-Drob, EM
+Greenwald, AG
+Legewie, J
+Deemer, ED
+Cundiff, JL
+Iskander, ET
+Jones, BD
+Ackerman, PL
+Martinez, S
+Ryoo, JJ
+Fischer, FT
+Grover, S
+Beasley, MA
+Chow, A
+Perez-Felkner, L
+Louis, RA
+Wood, W
+Simmons, JP
+Stephens, NM
+Park, LE
+Weisgram, ES
+Howard, KAS
+Ganley, CM
+Forbes, CE
+Lindberg, SM
+Ferriman, K
+Logel, C
+Bosson, JK
+Fralick, B
+Evans, CD
+Vandello, JA
+Casey, BM
+Morris, LK
+Hartman, H
+Carr, M
+Rudman, LA
+Singh, K
+Gilmartin, S
+Ehrlinger, J
+Eagly, AH
+Benbow, CP
+Wacker, J
+Feiler, DC
+Hundhammer, T
+Ronay, R
+Hoyt, CL
+Ames, DR
+Driskell, JE
+DeCoster, J
+ZOLLO, LJ
+Ko, SJ
+Hassin, R
+ARONOVITCH, CD
+Stephen, ID
+Smith, FG
+DeBruine, LM
+Lie, HC
+Hill, SE
+Derntl, B
+Wiszewska, A
+Oinonen, KA
+Alvergne, A
+Fink, B
+Apicella, CL
+Changizi, MA
+Dal Martello, MF
+Giese, MA
+Webster, MA
+Uller, T
+Macrae, CN
+Bressan, P
+Drummond, PD
+Mealey, L
+ENQUIST, M
+GRAMMER, K
+THORNHILL, R
+POSNER, MI
+WALSTER, E
+Miller, G
+Pastor, JC
+Deschner, T
+Buston, PM
+WEARY, DM
+Bleeker, MA
+Gess-Newsome, J
+Thibaut, L
+Dou, R
+Jager, J
+Keller, MM
+Krzywacki, H
+Park, H
+de Boer, E
+Henke, A
+Qhobela, M
+Becerra-Labra, C
+Mulhall, P
+Wahono, B
+Bell, D
+Guzey, SS
+Salami, MK
+Cavlazoglu, B
+Nadelson, LS
+Peterman, K
+Stevens, S
+Radloff, J
+Quigley, CF
+Kelley, TR
+Feinstein, NW
+Moore, TJ
+Chiu, MH
+Jerneck, A
+Hoy, AW
+Dijksterhuis, A
+WARREN, SC
+JARSKI, RW
+Christensen, R
+DeChenne, SE
+Goldsmith, CA
+Kennedy, SY
+Finsterwald, M
+Levin, B
+Roehrig, GH
+Choi, BCK
+Smith, MK
+Bush, SD
+Sundberg, MD
+Burton, JP
+Howe, C
+Lane, KA
+Cech, E
+Hegyi, G
+Haak, DC
+Freeman, S
+Meece, JL
+Johnson, JB
+Ecklund, EH
+Symonds, MRE
+Burnham, KP
+Carrell, SE
+Hoffmann, F
+Freeman, TM
+Wang, JL
+Kachchaf, R
+Leslie, SJ
+Renninger, KA
+Santagata, R
+Britner, SL
+Seron, C
+Trujillo, G
+Powell, Kendall
+Gire, E
+Bower, M
+Alraimi, KM
+Margaryan, A
+Jones, TM
+Cromley, JG
+Johns, M
+Beilock, SL
+Carr, PB
+Nguyen, HHD
+Keller, J
+Walsh, PE
+Marx, DM
+Sheldon, KM
+Senko, C
+Hunter, AB
+Lubke, G
+Hipp, JR
+Fairchild, AJ
+Iyengar, SS
+Muthen, B
+Vallerand, RJ
+RYAN, RM
+Mallett, RK
+Mohatt, NV
+Harrison, M
+Allen, J
+Horgan, TG
+Appel, M
+Eccles, JS
+Campbell, SM
+Guiso, L
+Metheny, J
+Betz, NE
+Wood, D
+Baron-Cohen, S
+Stake, JE
+Fuligni, AJ
+Berndt, TJ
+Schmidt, FL
+Spilt, JL
+Mercer, SH
+Justice, LM
+Bao, XH
+Thijs, JT
+Close, W
+Belsky, J
+Trentacosta, CJ
+Decker, DM
+Zimmer-Gembeck, MJ
+Cicchetti, D
+Connor, CM
+Gest, SD
+Faircloth, BS
+Vedder, P
+Garcia-Reid, P
+Kuncel, NR
+Silver, RB
+Klem, AM
+DiLalla, LF
+Peisner-Feinberg, ES
+Ladd, GW
+Valeski, TN
+Learner, DG
+BUHRMESTER, D
+Liew, J
+Landry, SH
+Buyse, E
+McElhaney, KB
+Mashburn, AJ
+Denissen, JJA
+Domitrovich, Celene E
+Hughes, J
+Palermo, F
+Miles, SB
+Meehan, BT
+Brody, GH
+Kuklinski, MR
+Birch, SH
+Bandura, A
+ECCLES, J
+DUBOW, EF
+HARTER, S
+Eisenberg, N
+Rimm-Kaufman, SE
+DuPaul, GJ
+MacKinnon, DP
+Little, M
+Adams, JW
+ROTHBART, MK
+ALEXANDER, KL
+GREENWOOD, CR
+MIDGLEY, C
+HUESMANN, LR
+AYLLON, T
+Brooks-Gunn, J
+Hill, NE
+Shrout, PE
+Krull, JL
+Anderman, LH
+ZIMMERMAN, RS
+Sweet, MA
+Caspi, A
+Greenfield, PM
+Yeung, WJ
+Linver, MR
+Bradley, RH
+Klebanov, PK
+Webster-Stratton, C
+Rutter, M
+Weizman, ZO
+Steinberg, L
+Collins, WA
+Reese, E
+Coll, CG
+BRADLEY, RH
+CHASELANSDALE, PL
+SPIKER, D
+Culp, AM
+Burchinal, MR
+Hutcheson, JJ
+CAMPBELL, FA
+SEITZ, V
+BROOKSGUNN, J
+JACOBSON, SW
+LIEBERMAN, AF
+WASIK, BH
+ACHENBACH, TM
+Konrad, AM
+Derks, B
+Cadinu, M
+Maddux, WW
+Preacher, KJ
+Pronin, E
+Karpinski, A
+JACOBS, JE
+Grant, H
+Brescoll, VL
+Uhlmann, EL
+Dovidio, JF
+Monin, B
+Williams, WM
+Sinharay, S
+Marmolejo, EK
+Kling, KC
+Cribbs, JD
+Drury, BJ
+Levy, ST
+Slotta, JD
+Wilensky, U
+Wilson, NL
+SHEPARD, RN
+Ansell, EB
+Kawakami, K
+Zitek, EM
+Bryan, AD
+Anderson, C
+Phelan, JE
+Tiedens, LZ
+Hess, U
+Ferdenzi, C
+Sutherland, CAM
+Tigue, CC
+Verosky, SC
+Baumann, O
+Welling, LLM
+Olivola, CY
+Vukovic, J
+Buday, SK
+BRUCE, V
+Bian, L
+Al-Yagon, M
+Erez, A
+Heilman, ME
+Milkman, KL
+Buczynski, S
+Williams, LE
+Rock, DA
+Kohl, GO
+VAN IJZENDOORN, MH
+Masnick, AM
+Farley, SD
+Okimoto, TG
+Evans, S
+Buckingham, G
+van Gog, T
+Master, A
+Bench, SW
+Shaffer, ES
+BASOLO, AL
+Shahali, EHM
+Mathis, CA
+Sheltzer, JM
+Gong, GL
+Brendgen, M
+Flook, L
+Joussemet, M
+Patterson, MM
+Richman, LS
+ Abbott, R
+ Rasmussen, K
+ Kato, D
+ Hotokezaka, K
+ Yang, YP
+ Mumpower, MR
+ Pakmor, R
+ Yoshida, N
+ Coulter, DA
+ Gaigalas, G
+ Wu, MR
+ Fryer, CL
+ Nakar, E
+ Tews, I
+ Myeong, GC
+ Aloy, MA
+ Woosley, SE
+ Fujibayashi, S
+ Hungerford, AM
+ Shibata, M
+ Guilet, J
+ Cescutti, G
+ Salvadori, S
+ Curtis, S
+ Covino, S
+ Radice, D
+ Salafia, OS
+ Yague, A
+ Lalakos, A
+ Hansen, CJ
+ Perego, A
+ Dietrich, T
+ Pignatari, M
+ Thompson, TA
+ Hansen, T
+ Vink, J
+ Drout, MR
+ Frebel, A
+ Frohlich, C
+ Banerjee, P
+ Sayar, W
+ Weinberg, DH
+ Ofek, EO
+ Soker, N
+ Skuladottir, A
+ Coughlin, MW
+ Matteucci, F
+ Janka, HT
+ Ramirez-Ruiz, E
+ Langanke, K
+ Barnes, J
+ Mashonkina, LI
+ Metzger, BD
+ Eichler, M
+ Tauris, TM
+ Kobayashi, C
+ Ji, AP
+ Simon, JD
+ Tchekhovskoy, A
+ Ebinger, K
+ Sprouse, TM
+ Bryan, GL
+ MacFadyen, A
+ Kawano, T
+ Bastian, NUF
+ Neijssel, CJ
+ Placco, VM
+ Sukova, P
+ Pan, KC
+ Hattori, K
+ Ishimaru, Y
+ Beniamini, P
+ Roberts, LF
+ Gay, DW
+ Wollaeger, RT
+ Busso, M
+ Sollerman, J
+ Cowperthwaite, S
+ Chieffi, A
+ Shigeyama, T
+ Kiuchi, K
+ Levan, AJ
+ Kotake, K
+ Mosta, P
+ Holmbeck, EM
+ Liebendorfer, M
+ Johnston, KV
+ Rauscher, T
+ Vartanyan, D
+ Most, ER
+ Kasen, D
+ Muller, B
+ Guillochon, J
+ Utsumi, Y
+ Just, O
+ Christlieb, N
+ Fernandez, R
+ Stergioulas, N
+ Berger, E
+ Holz, DE
+ Nagakura, H
+ Bauswein, A
+ Sekiguchi, Y
+ Sari, R
+ Norris, JE
+ Belczynski, K
+ Sawai, H
+ Lippuner, J
+ Travaglio, C
+ Herwig, F
+ Beloborodov, AM
+ Huang, Y
+ Ropke, FK
+ Galeazzi, F
+ Kyutoku, K
+ Wanajo, S
+ Vanbeveren, D
+ Karakas, AI
+ Ertl, T
+ Hirschi, R
+ Bensby, T
+ Ritter, C
+ Obergaulinger, M
+ Kajino, T
+ Freire, P
+ Goriely, S
+ Li, X
+ Takiwaki, T
+ Zrake, J
+ Tamborra, I
+ Aoki, W
+ Arcones, A
+ Cooke, RJ
+ Romano, D
+ Gallino, R
+ Piran, T
+ Trenti, M
+ Kazeroni, R
+ Quataert, E
+ Chiappini, C
+ Rosswog, S
+ Tominaga, N
+ Farouqi, K
+ Timmes, FX
+ Schatz, H
+ Lattanzio, JC
+ Ott, CD
+ Preston, GW
+ Richers, S
+ Ciolfi, R
+ Korobkin, O
+ Feltzing, S
+ Mannucci, F
+ Cohen, JG
+ Badnell, NR
+ Lattimer, JM
+ MacFadyen, AI
+ Spite, M
+ Beers, TC
+ Primas, F
+ Lawler, JE
+ Kappeli, R
+ Famiano, MA
+ Sagert, I
+ Montes, F
+ Cowan, JJ
+ Martinez-Pinedo, G
+ Whitehouse, SC
+ Bildsten, L
+ Dominik, M
+ Sneden, C
+ Korneev, IY
+ Kratz, KL
+ Tanaka, M
+ Caffau, E
+ Rezzolla, L
+ Wiesendahl, U
+ Piro, AL
+ Calura, F
+ Nomoto, K
+ Grevesse, N
+ Katsuta, Y
+ Nishimura, N
+ McLaughlin, GC
+ Depagne, E
+ Parete-Koon, ST
+ Panov, IV
+ Takahashi, R
+ Hashimoto, M
+ Umeda, H
+ Simmerer, J
+ Hoffman, RD
+ Lambert, DL
+ Hauser, P
+ Dimmelmeier, H
+ Den Hartog, EA
+ Rampp, M
+ Hashimoto, MA
+ Thielemann, FK
+ Uryu, K
+ Samland, M
+ Pfeiffer, B
+ Shapiro, SL
+ Dvorkin, I
+ Pillepich, A
+ Leung, SC
+ Silvia, DW
+ Dooley, GA
+ Springel, V
+ Zhang, FW
+ Schlaufman, KC
+ Matsuno, T
+ Bovy, J
+ Cote, B
+ Scannapieco, E
+ Hix, WR
+ Saitoh, TR
+ Ostriker, JP
+ Peeples, MS
+ Lugaro, M
+ Pilkington, K
+ Mateo, M
+ Gerhard, O
+ Casey, AR
+ Straniero, O
+ Drlica-Wagner, A
+ Ludwig, HG
+ Ishigaki, MN
+ Belokurov, V
+ Perera, BBP
+ Bellazzini, M
+ Dave, R
+ Crain, RA
+ Tumlinson, J
+ Pulpillo, RA
+ Ruchti, GR
+ Hill, V
+ Werk, JK
+ Marino, AF
+ Zhang, B
+ Fong, W
+ Starkenburg, E
+ Suda, T
+ Bromm, V
+ Few, CG
+ Turk, MJ
+ Ricotti, M
+ Trujillo-Gomez, S
+ Giacomazzo, B
+ Nakasato, N
+ Cerda-Duran, P
+ Asplund, M
+ Bolte, M
+ Honda, S
+ Wahlgren, GM
+ Gibson, BK
+ Francois, P
+ Hillebrandt, W
+ Limongi, M
+ Freese, K
+ Serenelli, AM
+ He, JJ
+ Chen, Y
+ Amthor, AM
+ Linden, T
+ Farmer, R
+ Iliadis, C
+ Hempel, M
+ Chiosi, C
+ Abia, C
+ Marinho, RM
+ Woodward, PR
+ Andersen, AC
+ Garcia-Hernandez, DA
+ Genel, S
+ Justham, S
+ Henriques, B
+ Mukhopadhyay, B
+ Campbell, SW
+ Fuqua, J
+ Xu, HS
+ Rueda, JA
+ Robertson, RGH
+ Jeffery, CS
+ Di Stefano, R
+ Haxton, WC
+ Sunyaev, RA
+ Champagne, A
+ Iwamoto, N
+ Lang, MG
+ Diehl, R
+ Bonifacio, P
+ Heger, A
+ Mussack, K
+ Knodlseder, J
+ Dan, M
+ Manchado, A
+ Arnett, D
+ Meng, X
+ Dunkley, J
+ Shi, JR
+ Jose, J
+ Steffan, M
+ Harris, MJ
+ Taam, RE
+ Zhang, WJ
+ Garcia-Lario, P
+ Gorres, J
+ Pinsonneault, MH
+ Ekstrom, S
+ Watson, LS
+ Kim, C
+ Vangioni-Flam, E
+ Larson, RB
+ Nonaka, A
+ Kilic, M
+ Cabezon, RM
+ Corsico, AH
+ Isern, J
+ Nittler, LR
+ Zinner, E
+ Moreno, F
+ Giuliani, A
+ Paxton, B
+ Basu, S
+ Jackson, AP
+ Hinkle, KH
+ Garcia-Senz, D
+ Di Mauro, MP
+ Cristallo, S
+ Bisterzo, S
+ Zych, BJ
+ Suleimanov, V
+ Rubin, D
+ Alexander, CMO
+ Brown, EF
+ Gail, HP
+ Paerels, F
+ Cumming, A
+ Miller, JM
+ Miller, JM
+ Cole, S
+ Calder, AC
+ Fukugita, M
+ Luridiana, V
+ Chen, XF
+ Livne, E
+ Geballe, TR
+ Shen, KJ
+ Loren-Aguilar, P
+ Niemeyer, JC
+ Vauclair, S
+ Molaro, P
+ Ecklund, TC
+ Leibundgut, B
+ Morsink, S
+ Bloom, JS
+ Hoppe, P
+ Khokhlov, AM
+ Prialnik, D
+ Bravo, E
+ Haberl, F
+ Guerrero, J
+ Cornelisse, R
+ Antia, HM
+ Nelemans, G
+ Surman, R
+ Garcia-Berro, E
+ Terasawa, M
+ Tylenda, R
+ Murray, N
+ Melendez, J
+ Traven, G
+ Veres, P
+ Ferrigno, C
+ Hidaka, J
+ Sauer, DN
+ Mogensen, TF
+ Siegert, T
+ Sim, SA
+ Sullivan, M
+ Ryabtsev, A
+ Fischer, T
+ Ito, H
+ Pehlivan, Y
+ Hilaire, S
+ Komissarov, SS
+ Dessart, L
+ Hardee, P
+ McKinney, JC
+ Turner, G
+ Narayan, R
+ Burrows, A
+ Krolik, JH
+ Breitschwerdt, D
+ Muller, E
+ Chatzopoulos, E
+ Kawasaki, M
+ Aghanim, N
+ Keek, L
+ Sparta, R
+ Pettini, M
+ Ajello, M
+ Ciaraldi-Schoolmann, F
+ Mazzocchi, C
+ Petitjean, P
+ Smith, KM
+ Thuan, TX
+ Abdou, Y
+ Piersanti, L
+ Burles, S
+ Otsuki, K
+ Shizuma, T
+ Hobbs, GB
+ Zamora, O
+ Magrini, L
+ Buczak, K
+ The, LS
+ Chau, LP
+ El Eid, MF
+ Agvaanluvsan, U
+ Temma, Y
+ Kremer, K
+ Evoli, C
+ Zha, S
+ Marka, S
+ Hogarth, LM
+ Merz, G
+ Furusawa, S
+ Addison, GE
+ Meakin, C
+ Chamel, N
+ de Laverny, P
+ Qian, YZ
+ Alecian, G
+ Lave, KA
+ Coc, A
+ Casertano, S
+ Bachiller, R
+ Federman, SR
+ Yoshida, T
+ Denissenkov, P
+ Mathews, GJ
+ Siess, L
+ Gil-Pons, P
+ Indebetouw, R
+ Pennucci, TT
+ Prieto, CA
+ Toki, H
+ Ciesla, F
+ Melot, F
+ Chaussidon, M
+ Gehrz, RD
+ Thompson, A
+ Krot, AN
+ Tatischeff, V
+ Thibaud, JP
+ Freytag, B
+ Arnould, M
+ Bidelman, WP
+ Eberl, T
+ Zane, S
+ Rea, N
+ Mapelli, M
+ Jani, K
+ Haiman, Z
+ De Mink, SE
+ Hannuksela, OA
+ Abbott, TD
+ Loeb, A
+ Ford, KES
+ Klencki, J
+ Wysocki, D
+ Strader, J
+ Farmer, RJ
+ Farr, WM
+ Spera, M
+ Renzo, M
+ Lasky, PD
+ He, C
+ Sampson, M
+ Ma, LH
+ Giacobbo, N
+ Bartos, I
+ Richer, H
+ Hubner, M
+ Haris, K
+ Gieles, M
+ Samsing, J
+ Famaey, B
+ Civano, F
+ Stone, NC
+ Kocsis, B
+ Mao, SD
+ Naoz, S
+ Thrane, E
+ Jauzac, M
+ Askar, A
+ Toonen, S
+ Stappers, BW
+ Garcia-Bellido, J
+ Reines, AE
+ Tremaine, S
+ Feng, H
+ Zevin, M
+ Rasio, FA
+ Barausse, E
+ Mac Low, MM
+ Chatterjee, S
+ Leigh, N
+ Liu, JF
+ Seth, AC
+ Roberts, TP
+ Webb, NA
+ Le Bouquin, JB
+ Woosley, S
+ Shappee, BJ
+ Greene, JE
+ Mucciarelli, A
+ Kissler-Patig, M
+ Marigo, P
+ Perets, HB
+ Ho, LC
+ Wrobel, JM
+ Marvil, J
+ Chomiuk, L
+ Hakala, PJ
+ Farrell, SA
+ Soria, R
+ Tout, CA
+ Cappellari, M
+ van der Marel, RP
+ Anderson, J
+ Barret, D
+ Gueltekin, K
+ Gebhardt, K
+ Lousto, C
+ Natarajan, P
+ Larson, SL
+ Volonteri, M
+ Miller, MC
+ Rich, RM
+ Hughes, SA
+ Milosavljevic, M
+ Colbert, EJM
+ Mandel, I
+ Chirenti, C
+ Ahumada, T
+ van Eerten, H
+ Yang, YY
+ Paterson, K
+ Cowperthwaite, PS
+ Bovard, L
+ McLaughlin, M
+ Stanway, ER
+ Kumar, B
+ Eldridge, JJ
+ Sipocz, BM
+ Silva, HO
+ Champion, DJ
+ Freire, PCC
+ Kramer, M
+ Berry, CPL
+ Shenar, T
+ Langer, N
+ Turnbull, SJ
+ Bozzo, E
+ Zimmerman, A
+ Tollerud, EJ
+ Arras, P
+ Bailyn, CD
+ Cariou, R
+ Sravan, N
+ Psaltis, D
+ Wolszczan, A
+ Cameron, PB
+ Kollmeier, JA
+ Andreoni, I
+ Nynka, M
+ Ackley, K
+ Schulze, S
+ Gorbovskoy, E
+ Lyman, JD
+ Hiramatsu, D
+ Kilpatrick, CD
+ Sand, DJ
+ Graur, O
+ Yokoyama, T
+ Fields, BD
+ Lang, RN
+ Stairs, IH
+ Kirby, EN
+ Dickinson, M
+ Bower, GC
+ Pretorius, F
+ Chornock, R
+ Willems, B
+ Podsiadlowski, P
+ Glover, SCO
+ Stella, L
+ Morokuma, T
+ Kato, M
+ Kalogera, V
+ Thorsett, SE
+ Gal-Yam, A
+ Hjorth, J
+ Lai, D
+ Dewi, JDM
+ Nagataki, S
+ Dewey, RJ
+ Irwin, M
+ Collet, R
+ Ruiter, AJ
+ Sutherland, RS
+ Fontanot, F
+ Courtois, H
+ Scannapieco, C
+ Yates, RM
+ De Lucia, G
+ Repetto, S
+ Botticella, MT
+ Vogelsberger, M
+ Keller, S
+ Faucher-Giguere, CA
+ Bianco, FB
+ Harris, WE
+ Fall, SM
+ Cinabro, D
+ Riess, AG
+ Ihara, Y
+ Rodney, SA
+ Graves, GJ
+ Falle, SAEG
+ Maoz, D
+ Friel, ED
+ Strolger, LG
+ Dahlen, T
+ Chiba, M
+ Santos, NC
+ Thomas, D
+ Cox, TJ
+ Aldering, G
+ Callegari, S
+ Poznanski, D
+ Tonry, JL
+ Maraston, C
+ Smith, M
+ Schaye, J
+ Lidz, A
+ Palanque-Delabrouille, N
+ Faber, SM
+ Schiavon, RP
+ Riello, M
+ Fabjan, D
+ Weiner, BJ
+ Perna, R
+ Afonso, C
+ Spitaleri, C
+ Pizzone, RG
+ La Cognata, M
+ Lebzelter, T
+ Palmerini, S
+ Carretta, E
+ Ghisellini, G
+ Kashiyama, K
+ Murase, K
+ Maeda, K
+ Meszaros, P
+ Sakamoto, T
+ Ioka, K
+ Yonetoku, D
+ Bostanci, ZF
+ Ding, X
+ Stone, JM
+ Chincarini, G
+ Barthelmy, SD
+ Suwa, Y
+ Toma, K
+ Zhang, WQ
+ Mao, J
+ Beardmore, AP
+ Begelman, MC
+ Ghirlanda, G
+ Xu, D
+ Li, Z
+ Kobayashi, S
+ Mori, M
+ Wiersema, K
+ Albert, A
+ Bhattacharya, D
+ Shannon, RM
+ Nissanke, S
+ Cannizzo, JK
+ Diehl, HT
+ Briggs, MS
+ Goldstein, A
+ Baliber, N
+ Wise, MW
+ Craig, WW
+ Kasliwal, M
+ Guillemot, L
+ Case, GL
+ Neronov, A
+ Abbott, BP
+ Burgess, JM
+ Meegan, CA
+ Ferris, RH
+ Finkbeiner, DP
+ Leaman, J
+ Thone, CC
+ Kornilov, V
+ Lichti, G
+ Barbiellini, G
+ Malesani, D
+ King, AR
+ Fox, DB
+ Cenko, SB
+ Bailes, M
+ Grupe, D
+ Hill, JE
+ Deich, A
+ Pozanenko, AS
+ Margutti, R
+ Macri, LM
+ Burns, E
+ Connaughton, V
+ Evans, H
+ Tervala, JG
+ Kumar, P
+ Siellez, K
+ Siegel, DM
+ Kaspi, VM
+ Howell, EJ
+ Bersier, D
+ Kruhler, T
+ Mewes, M
+ Butler, N
+ Granot, J
+ Stanek, KZ
+ Bonnell, JT
+ Prochaska, JX
+ Hivon, E
+ Tagliaferri, G
+ Stovall, K
+ Fambri, F
+ Paschalidis, V
+ Ruiz, M
+ Rosen, R
+ Kasian, L
+ Montes, G
+ Kottas, A
+ Ohsuga, K
+ Wex, N
+ Yamada, S
+ Dumbser, M
+ Inoue, T
+ Giannios, D
+ Bulik, T
+ Ferrari, V
+ Hurley, JR
+ Hesse, M
+ Beckner, VE
+ Xu, H
+ Anninos, P
+ Lehner, L
+ Gardiner, TA
+ Zanotti, O
+ Price, D
+ Tohline, JE
+ Kifonidis, K
+ Fan, YZ
+ Fragile, PC
+ Braby, M
+ Gondek-Rosinska, D
+ Andersson, N
+ Apostolatos, TA
+ Lorimer, DR
+ Accardo, M
+ Webb, JK
+ Sanchez, AG
+ de Bruijne, JHJ
+ Palle, PL
+ Fienga, A
+ Larson, D
+ Pitjev, NP
+ Carilli, C
+ Boyles, J
+ Langston, GI
+ Le Poncin-Lafitte, C
+ Adelberger, EG
+ Asmar, SW
+ Muller, J
+ Nice, DJ
+ van Casteren, J
+ Salomon, C
+ Kopeikin, S
+ Turyshev, SG
+ Eisenhauer, F
+ Wagoner, RV
+ Jenet, FA
+ Verbiest, JPW
+ McClintock, JE
+ Chitre, SM
+ Alexander, T
+ Faulkner, AJ
+ Abdelatif, T
+ Reimers, D
+ Abdalla, FB
+ Lemos, P
+ Ratra, B
+ Blake, C
+ Shirasaki, M
+ Kunz, M
+ Xu, LX
+ Mead, A
+ Zhu, HY
+ Miyatake, H
+ Viola, M
+ Kumar, S
+ Madiyar, FR
+ Camera, S
+ Choi, A
+ Amon, A
+ Ade, PAR
+ Arnaud, M
+ Raveri, M
+ Alam, S
+ Hikage, C
+ Joudaki, S
+ Eifler, T
+ Hamana, T
+ Schmidt, F
+ Krause, E
+ Brown, ML
+ Sherwin, BD
+ Hoover, S
+ Samushia, L
+ Tsujikawa, S
+ Scolnic, D
+ Akiba, Y
+ Kessler, R
+ Aubourg, E
+ Saito, S
+ Reid, BA
+ Vikram, V
+ Baldi, M
+ Guzzo, L
+ Grocutt, E
+ Van Waerbeke, L
+ Marriner, J
+ Fu, L
+ Heymans, C
+ Schlegel, DJ
+ Xu, XY
+ Ishak, M
+ Crittenden, R
+ Madore, BF
+ Wang, Y
+ Keisler, R
+ Baugh, CM
+ Brough, S
+ Percival, WJ
+ Bean, R
+ Lewis, GF
+ Sanders, RH
+ Kashi, A
+ Crawford, TM
+ Kazin, EA
+ Davis, T
+ Szapudi, I
+ Macri, L
+ Jing, YP
+ Guy, J
+ Eisenhardt, PRM
+ Percival, W
+ Hartlap, J
+ Deffayet, C
+ Schneider, P
+ Cabre, A
+ Akhoury, R
+ White, M
+ Evans, NW
+ Li, C
+ Neyrinck, MC
+ Agueros, MA
+ Gladders, MD
+ Mandelbaum, R
+ Menou, K
+ Sami, M
+ Mukherjee, P
+ Hirata, CM
+ Seljak, U
+ Martinez-Gonzalez, E
+ Zehavi, I
+ Valls-Gabaud, D
+ Wright, EL
+ Howard, B
+ Fantoni, R
+ Gordon, C
+ Bulbul, E
+ Le Delliou, M
+ Akamatsu, H
+ Anderson, B
+ Dobrodey, S
+ Boyarsky, A
+ Profumo, S
+ Kaastra, J
+ Barbarino, GC
+ Werner, N
+ Cuoco, A
+ Rott, C
+ Gluscevic, V
+ Kilbinger, M
+ Markevitch, M
+ Mena, O
+ Bullock, JS
+ Eke, V
+ Agnetta, G
+ Stawarz, L
+ Pfrommer, C
+ Martinez, GD
+ Ludlow, A
+ Hektor, A
+ Abdo, AA
+ Le Guillou, L
+ Akhperjanian, AG
+ Bradac, M
+ Laskar, J
+ Gold, R
+ Duez, MD
+ Martin, D
+ Feindt, U
+ Kastaun, W
+ Liebling, SL
+ Diwisch, M
+ Deaton, MB
+ Wu, X
+ Brady, P
+ Laveder, M
+ Farinon, F
+ Kneller, JP
+ Fechner, M
+ Delaroche, JP
+ Mocelj, D
+ Taniguchi, K
+ Kolbe, E
+ Liang, HZ
+ Roy, P
+ Ujevic, M
+ Xu, X
+ Desai, D
+ Haas, R
+ Andreyev, AN
+ Baiotti, L
+ Niu, YF
+ Raffelt, GG
+ Hinderer, T
+ Frederico, T
+ Foucart, F
+ Fantina, AF
+ Meisel, Z
+ Uzan, JP
+ Chen, SZ
+ Pena-Garay, C
+ Olive, KA
+ Ulmer, A
+ Benziger, J
+ Hampel, W
+ Doser, M
+ Nunes, NJ
+ Baumgarte, TW
+ Imbriani, G
+ NAKAMURA, T
+ CENTRELLA, JM
+ Grawe, H
+ Walker, PM
+ Zhang, GX
+ Podolyak, Z
+ Bruce, AM
+ Jungclaus, A
+ Morales, AI
+ Jurado, B
+ Balantekin, AB
+ Farrelly, GF
+ Savajols, H
+ von Neumann-Cosel, P
+ Kusakabe, M
+ Ellis, J
+ Dolgov, A
+ Canton, L
+ Roth, R
+ Brune, CR
+ Flambaum, VV
+ Shin, JW
+ Kumar, D
+ Heil, M
+ Bemmerer, D
+ Fulop, Z
+ Varlamov, V
+ Krivosheina, IV
+ Motobayashi, T
+ Wiedeking, M
+ Baldo, M
+ Gaggero, D
+ Niu, ZM
+ Hussein, MS
+ Paul, M
+ Abreu, P
+ Seckel, D
+ Amanbayev, D
+ Akkus, B
+ Li, KA
+ Aumann, T
+ Schmidt, S
+ Plass, WR
+ Liu, M
+ Bosch, F
+ Simon, MC
+ Ohtsubo, T
+ Knobel, R
+ Hausmann, M
+ Marronetti, P
+ Forteza, XJ
+ Cotesta, R
+ Hemberger, D
+ Berti, E
+ Del Pozzo, W
+ Amaro-Seoane, P
+ Hindmarsh, M
+ Yagi, K
+ Lange, J
+ Wong, KWK
+ Ajith, P
+ Klein, A
+ Keitel, D
+ Shao, LJ
+ Lousto, CO
+ Taracchini, A
+ Healy, J
+ Kuhnel, F
+ Kesden, M
+ Kela, A
+ Vedovato, G
+ Khan, S
+ Husa, S
+ Price, LR
+ Buonanno, A
+ Littenberg, TB
+ Abadie, J
+ Raymond, V
+ Ohme, F
+ Agathos, M
+ Baker, JG
+ Hannam, M
+ Abernathy, M
+ Arun, KG
+ Nakano, H
+ Cardoso, V
+ Faye, G
+ Kidder, LE
+ Cook, GB
+ Iyer, BR
+ Campanelli, M
+ Gras, S
+ Purrer, M
+ Landry, P
+ Massinger, T
+ Sengupta, AS
+ Bernuzzi, S
+ Pannarale, F
+ Adams, T
+ Wade, LE
+ Dal Canton, T
+ Haster, CJ
+ Wade, M
+ Clark, JA
+ Betzwieser, J
+ Kanner, JB
+ Friedman, JL
+ Blackburn, K
+ Vitale, S
+ Nitz, AH
+ Buskulic, D
+ Yunes, N
+ Wade, L
+ Schofield, RMS
+ Mohapatra, SRP
+ Marsat, S
+ Biswas, R
+ Chung, SK
+ Anderson, WG
+ Nagar, A
+ Hooper, S
+ Flanagan, EE
+ Allen, B
+ Vasuth, M
+ WILL, CM
+ FLANAGAN, EE
+ DHURANDHAR, SV
+ Kaplan, J
+ Benzoni, G
+ Lane, GJ
+ Yamaguchi, K
+ Becerril, A
+ Sumikama, T
+ Grzywacz, R
+ Cardella, G
+ Altstadt, S
+ Adamova, D
+ Agnello, M
+ Gialanella, L
+ Di Leva, A
+ Wu, PZ
+ Braun-Munzinger, P
+ Jin, GM
+ Takami, K
+ Levin, J
+ Daw, EJ
+ TAYLOR, JH
+ Hees, A
+ Bailey, QG
+ Desai, S
+ Tasson, JD
+ Biwer, C
+ Sutton, PJ
+ Fairhurst, S
+ Kostelecky, VA
+ Nayyar, M
+ De Pietri, R
+ Feo, A
+ Choptuik, MW
+ East, WE
+ Moldenhauer, N
+ Kokkotas, KD
+ Palenzuela, C
+ Nolan, P
+ Damour, T
+ Nouri, FH
+ Markakis, CM
+ Creighton, JDE
+ Mundim, BC
+ Alic, D
+ Endeve, E
+ Will, CM
+ McWilliams, ST
+ Ramazanoglu, FM
+ Ponce, M
+ Pfeiffer, HP
+ Gualtieri, L
+ Hilditch, D
+ Faber, J
+ Thierfelder, M
+ Tsokaros, A
+ Scheel, MA
+ Bona-Casas, C
+ Liu, YT
+ Lackey, BD
+ Oechslin, R
+ Ishihara, H
+ Hawke, I
+ Limousin, F
+ Poisson, E
+ Markakis, C
+ Boyle, M
+ Okawa, H
+ Deser, S
+ Li, TK
+ Gonzalez, JA
+ Brown, DA
+ Reisswig, C
+ Babak, S
+ Hewitson, M
+ Hirschmann, EW
+ Gressman, P
+ IBANEZ, JM
+ Iess, L
+ Clifton, T
+ Sotiriou, TP
+ Blanchet, L
+ Bietenholz, MF
+ Muhlfelder, B
+ Tortora, P
+ Folkner, WM
+ Peron, R
+ Sturani, R
+ Caballero, RN
+ Mohideen, U
+ Stein, LC
+ Ferreira, PG
+ Everitt, F
+ Sacquin, Y
+ Patla, BR
+ Schlamminger, S
+ Amsler, C
+ Aoudia, S
+ Baker, T
+ Siemens, X
+ Zhao, GB
+ Chen, YB
+ Burgess, CP
+ Klimchitskaya, GL
+ Gair, JR
+ Linder, EV
+ Taruya, A
+ Langlois, D
+ Taveras, V
+ Hu, W
+ Cao, Z
+ Sotani, H
+ Schreck, M
+ Smullin, SJ
+ Risse, M
+ Miyamoto, U
+ Jacobson, T
+ Schiappa, R
+ Bender, PL
+ Rappaport, S
+ Rothstein, IZ
+ Schutz, BF
+ Giannotti, M
+ Barrow, JD
+ Kapner, DJ
+ Mattingly, D
+ Pospelov, M
+ Wiseman, AG
+ EspositoFarese, G
+ Newhall, XX
+ DAMOUR, T
+ NOVERO, C
+ HECKEL, BR
+ NORDTVEDT, K
+ CHERNOFF, DF
+ ESPOSITOFARESE, G
+ Holscher, P
+ Clampitt, J
+ Brax, P
+ Perivolaropoulo, L
+ Lewandowski, M
+ Amendola, L
+ Bolis, N
+ Bellini, E
+ Dirian, Y
+ Khyllep, W
+ Nesseris, S
+ Saravani, M
+ Barreira, A
+ Lombriser, L
+ Bull, P
+ Zumalacarregui, M
+ Martinelli, M
+ Pace, F
+ Koyama, K
+ Pantazis, G
+ Davis, AC
+ Heisenberg, L
+ Skordis, C
+ Kase, R
+ Hiramatsu, T
+ Mancarella, M
+ Ezquiaga, JM
+ Cid, AF
+ Babichev, E
+ Kenna-Allison, M
+ Mukhanov, V
+ Mukohyama, S
+ Fukushima, M
+ Mota, DF
+ Lima, NA
+ Naruko, A
+ Marinoni, C
+ Silvestri, A
+ Sakstein, J
+ Peter, P
+ Verde, L
+ Noui, K
+ Wilcox, H
+ Foffa, S
+ Sengor, G
+ Poplawski, NJ
+ Durrer, R
+ Hull, M
+ Taylor, A
+ Bolliet, B
+ Cuesta, AJ
+ Valageas, P
+ Bailey, S
+ Wang, B
+ Hassan, SF
+ Ballardini, M
+ Yamauchi, D
+ Vikman, A
+ Dunsby, PKS
+ Blanchard, A
+ Akrami, Y
+ Ueno, K
+ Kirkby, D
+ Baccigalupi, C
+ Li, BJ
+ Ballesteros, G
+ Nakamura, T
+ Hu, B
+ Farooq, O
+ Li, B
+ Sawicki, I
+ Nesti, F
+ Patil, A
+ Chen, BH
+ Zhao, W
+ Niz, G
+ Liguori, M
+ Calabrese, E
+ Hilton, M
+ Pogosian, L
+ Totani, T
+ Arnau, E
+ Piazza, F
+ Dodelson, S
+ Saltas, ID
+ Hinterbichler, K
+ Padilla, A
+ Riemer-Sorensen, S
+ Tolley, AJ
+ De Felice, A
+ Wang, AZ
+ Sepangi, HR
+ Brandenberger, R
+ Yamamoto, K
+ Kobayashi, T
+ Wu, Q
+ Ostorero, L
+ Gao, X
+ Lesgourgues, J
+ van de Bruck, C
+ Nojiri, S
+ Gawiser, E
+ Chen, XL
+ Qiang, LE
+ Pujolas, O
+ Huterer, D
+ Khoury, J
+ Gabadadze, G
+ Sierra, NF
+ Kazanas, D
+ Zlosnik, TG
+ Giannantonio, T
+ Tangmatitham, M
+ Li, CS
+ Koh, S
+ Casadio, R
+ Urakawa, Y
+ Smith, RE
+ Wands, D
+ Peacock, JA
+ Flauger, R
+ Maartens, R
+ Kofinas, G
+ Scoccimarro, R
+ Wyman, M
+ Nakayama, K
+ Comelli, D
+ Dossett, J
+ Yu, HW
+ Esposito-Farese, G
+ Sahni, V
+ Mashhoon, B
+ Gomberoff, A
+ Rattazzi, R
+ Moldenhauer, J
+ Wang, S
+ Gracey, JA
+ Hirata, C
+ Ho, S
+ Odintsov, SD
+ Zukin, P
+ Scranton, R
+ Slosar, A
+ Gannouji, R
+ Elizalde, E
+ Hofmann, S
+ Cahn, RN
+ Battye, RA
+ Gregory, R
+ Cooray, A
+ Chung, DJH
+ Maity, D
+ Bernat, D
+ Eisenstein, DJ
+ Goobar, A
+ Majerotto, E
+ Cai, RG
+ Ichiki, K
+ Van Acoleyen, K
+ Dudal, D
+ Tinyakov, PG
+ Schuller, FP
+ Solganik, S
+ Lim, EA
+ Wang, P
+ Cline, JM
+ Duvvuri, V
+ Shifman, M
+ Weltman, A
+ Ovrut, BA
+ Rios, A
+ Gamberg, L
+ Andres, C
+ Fan, ZY
+ Tsang, CY
+ Tsang, MB
+ Kanwar, G
+ Bedaque, PF
+ Trewartha, D
+ Aalbers, J
+ Trojanowski, S
+ Olechowski, M
+ Hikasa, K
+ Murgia, S
+ Heinke, C
+ Archer, A
+ Barger, V
+ Malyshev, D
+ Waxman, E
+ Kaplinghat, M
+ Huh, JH
+ Mukhopadhyay, S
+ Tamvakis, K
+ Aad, G
+ Hiraide, K
+ Sessolo, EM
+ Eiteneuer, B
+ Shen, ZQ
+ Lamperstorfer, AS
+ Sirunyan, AM
+ Calore, F
+ Abraham, K
+ Ardid, M
+ Gaskins, JM
+ Liang, YF
+ Scaffidi, A
+ Park, EK
+ Lasenby, R
+ Cai, Y
+ Boudaud, M
+ Amoroso, S
+ Gelmini, GB
+ Klos, P
+ Sandick, P
+ Hooper, D
+ Fornasa, M
+ Bi, XJ
+ von Harling, B
+ Batell, B
+ Anderson, AJ
+ Cholis, I
+ Herrmann, B
+ Solon, MP
+ Abbott, B
+ Feld, D
+ Aharonian, F
+ Grothaus, P
+ Han, XF
+ Vollmann, M
+ Shelton, J
+ Papucci, M
+ Li, T
+ De Simone, A
+ Park, WI
+ Baehm, C
+ DiFranzo, A
+ McCabe, C
+ Seto, O
+ Dolan, MJ
+ Canac, N
+ Roszkowski, L
+ Wagner, CEM
+ Jeong, KS
+ Kong, K
+ Redondo, J
+ Coogan, A
+ Hoferichter, M
+ Cirelli, M
+ Figueroa-Feliciano, E
+ Al Samarai, I
+ Macias, O
+ Menendez, J
+ Lisanti, M
+ Sanchez-Conde, MA
+ Maccione, L
+ Demidov, SV
+ Becker, GD
+ Barbeau, PS
+ Bertone, G
+ Kusenko, A
+ Salucci, P
+ Kelso, C
+ Barnacka, A
+ Haxton, W
+ Drees, M
+ Dutta, B
+ Belikov, AV
+ Nath, P
+ Kazana, M
+ Schwarz, DJ
+ Belanger, G
+ Boulay, MG
+ Garny, M
+ Vecchi, L
+ Dasgupta, B
+ Huang, X
+ Tseng, PY
+ Heng, ZX
+ Harnik, R
+ Alvarez, EA
+ Lessa, A
+ Shepherd, W
+ Pato, M
+ Goodenough, L
+ Corcella, G
+ Ibe, M
+ Kakizaki, M
+ Reece, M
+ Ullio, P
+ Ackermann, M
+ Niro, V
+ Iocco, F
+ Liu, ZW
+ Kehayias, J
+ Jeltema, TE
+ Zurek, KM
+ Tytgat, MHG
+ Ando, S
+ Takahashi, F
+ Goudelis, A
+ Bringmann, T
+ Shan, CL
+ Su, S
+ Boudjema, F
+ Dermisek, R
+ Galper, AM
+ Strumia, A
+ Matsumot, S
+ Steffen, FD
+ Mustafayev, A
+ Provenza, A
+ Gondolo, P
+ Matsumoto, S
+ Hall, LJ
+ Komatsu, E
+ Kohri, K
+ Meade, P
+ Yaguna, CE
+ Wacker, JG
+ Thunman, M
+ Stewart, ED
+ KOLDA, C
+ NOJIRI, MM
+ SECKEL, D
+ Quinn, F
+ Lavonen, J
+ Forster, C
+ Summers, R
+ van der Veen, JT
+ van der Molen, JHW
+ Hasni, A
+ Emanuelsson, P
+ Wu, IC
+ Dennick, R
+ Aldridge, JM
+ Berlin, D
+ Subramaniam, R
+ Lichtenstein, MJ
+ Lingard, B
+ Lefstein, A
+ Tsai, CC
+ Goh, AYS
+ Tan, AL
+ Chang, WH
+ Lee, MH
+ Deng, F
+ Fleer, M
+ Hong, ZR
+ Wong, SL
+ Lin, HS
+ Osborne, J
+ Hodson, D
+ Abd-El-Khalick, F
+ Oliver, JS
+ Johanson, RE
+ Kuo, PC
+ Cheng, WY
+ Liu, SY
+ Chin, CC
+ Chiu, HL
+ Rawolle, S
+ Lawn, M
+ Airey, J
+ Knaub, AV
+ Chasteen, SV
+ McCormack, O
+ Borowski, A
+ Sawtelle, V
+ Danielsson, A
+ Gitomer, D
+ Gregorcic, B
+ Zhang, P
+ Egersdorfer, D
+ Johansson, A
+ Roberts, L
+ Araujo, I
+ Dillon, J
+ Hora, MT
+ Potvin, G
+ Di Paola, B
+ Christensen, WM
+ Jessen, K
+ Thames, MH
+ Koehler, MJ
+ Hassan, AS
+ El-Badry, AM
+ Allam, SH
+ Al-Assam, S
+ Stock, S
+ Thywissen, JH
+ Karim, NI
+ Maries, A
+ Stewart, G
+ Moote, J
+ Ziegler, SA
+ Stang, JB
+ Shemwell, JT
+ Cid, XC
+ Banda, R
+ Jones, J
+ Degol, J
+ Galloway, RK
+ Walton, GM
+ Quinn, PD
+ Tai, RH
+ Johnson, A
+ Renninger, KA
+ Eccles, JS
+ ARONSON, J
+ White, S
+ Bailey, MB
+ Taasoobshirazi, G
+ Britner, SL
+ Leung, ACK
+ Marshman, E
+ Terrana, A
+ Singh, C
+ Gutmann, B
+ Gladding, G
+ Willis, MC
+ Mestre, JP
+ Timan, AL
+ Tanner, KD
+ de Bruyn, JR
+ Antimirova, T
+ Mazur, E
+ Azevedo, R
+ Chabay, R
+ Schnackenberg, HL
+ Kalender, ZY
+ Sansone, C
+ Cohen, E
+ Peterson, C
+ Prevost, L
+ Gravel, B
+ Yoon, H
+ Stelzer, T
+ Proske, A
+ Belloni, M
+ Valcke, M
+ Gillaspy, JA
+ Nora, A
+ Kester, L
+ Sweller, J
+ Rikers, RMJP
+ Hart, IR
+ Young, DB
+ Christe, P
+ Lee, KJ
+ Buss, DM
+ NEEL, JV
+ GODIN, JGJ
+ Maier, MA
+ Greven, C
+ Wickings, EJ
+ Gerald, MS
+ Thornhill, R
+ Sabini, J
+ Monin, B
+ Barton, RA
+ Scheyd, GJ
+ Pelham, BW
+ Havlicek, J
+ Wilson, DS
+ Simpson, JA
+ Sellergren, SA
+ Miller, RS
+ Shiffrin, RM
+ Dixson, AF
+ Flykt, A
+ Burns, SA
+ Buswell, BN
+ Bax, CM
+ RAYMOND, P
+ MOLLER, AP
+ JONES, GE
+ WALSTER, E
+ Ramirez, E
+ Lee, K
+ Jacobson, A
+ Rhodes, G
+ Darling, S
+ Simmons, LW
+ Bartholome, T
+ Schwarz, N
+ Laing, S
+ Jones, BC
+ Little, AC
+ Fink, B
+ Winston, J
+ Reierson, GW
+ Etcoff, N
+ Wickham, LHV
+ Montgomerie, R
+ Yoshikawa, S
+ Olds, TS
+ Kalakanis, L
+ Gangestad, SW
+ Perrett, DI
+ Grammer, K
+ Goodwin, G
+ Deffenbacher, KA
+ CUTHILL, IC
+ BUTTERWORTH, G
+ Brewe, E
+ Renzulli, JS
+ Benbow, Camilla P
+ Cantor, N
+ Kessels, U
+ Graham, L
+ Ortiz-Munoz, SM
+ Perkins, KK
+ Yeung, AS
+ Chiu, MM
+ Kurdziel, JP
+ WARSI, G
+ Rudman, LA
+ Williams, WM
+ Brooks, ME
+ Garcia, J
+ Crouch, CH
+ Brickman, P
+ Brownell, SE
+ Hannafin, MJ
+ Costa, LJ
+ Lee, G
+ Papadopoulos, PM
+ Durik, AM
+ Butterfield, B
+ Brown, ER
+ Converse, M
+ Logel, C
+ Weisgram, ES
+ Wylie, R
+ Farro, S
+ Schwartz, BM
+ Betz, DE
+ Ryan, CS
+ Katz, J
+ Momsen, J
+ Williams, AM
+ Dovidio, JF
+ Rattan, A
+ Clark, EK
+ Rosenthal, L
+ Whitehead, J
+ Kost-Smith, LE
+ Steinke, J
+ Denessen, E
+ Long, MC
+ Powell, E
+ Devine, PG
+ Steele, CM
+ Sekaquaptewa, D
+ Terracciano, A
+ London, B
+ Gotlieb, R
+ Smith, JL
+ Lewis, KL
+ Hernandez, PR
+ Crocker, J
+ Barron, KE
+ Cohen, GL
+ Corpus, JH
+ Hunter, AB
+ HILL, KG
+ LEPPER, MR
+ Siy, JO
+ Mars, DE
+ Metz, AM
+ Cech, EA
+ Fingerhut, A
+ Plaut, VC
+ Blair-Loy, M
+ Reid, AH
+ Harackiewicz, JM
+ Rounds, J
+ Ye, FF
+ Ruiz, JM
+ Peck, SC
+ Farkas, T
+ Ramirez, G
+ Campbell, KL
+ Alparone, FR
+ Spurk, D
+ Meltzoff, AN
+ Paris, SG
+ Wang, YY
+ Lerner, RM
+ Leaper, C
+ Godes, O
+ Holcombe, R
+ Cacchio, M
+ Goetz, T
+ Hyde, JS
+ Marcoulides, GA
+ Linnenbrink-Garcia, L
+ Lubinski, D
+ Lindberg, SM
+ Muller, C
+ Johnson, DW
+ Riegle-Crumb, C
+ Regner, I
+ Firker, A
+ Cortina, KS
+ Ryan, AM
+ Trzesniewski, KH
+ Schoenfelder, E
+ Liu, CQ
+ Vida, M
+ Johns, M
+ Benbow, CP
+ Seligman, MEP
+ Geiser, C
+ Migeon, CJ
+ Harter, S
+ Vasilyeva, M
+ Jovanovic, J
+ Snow, CE
+ Winslow, SE
+ Steward, JC
+ Bleeker, MM
+ Michael, A
+ Alsop, D
+ Ben-Zeev, T
+ Bandura, A
+ Dweck, CS
+ Wold, A
+ STEVENSON, HW
+ MIDGLEY, C
+ BRABECK, MM
+ LEE, SY
+ HAMPSON, E
+ Zvoch, K
+ Booren, LM
+ Verschueren, K
+ Shin, RQ
+ Haynes, NM
+ Daniels, DH
+ Waajid, B
+ Lemery-Chalfant, K
+ Sandfort, TGM
+ Burchinal, M
+ Reavis, RD
+ Stuhlman, MW
+ Rydell, AM
+ Maxwell, SE
+ Belsky, J
+ Moffitt, TE
+ Pianta, RC
+ Krull, J L
+ Schunn, CD
+ McKagan, SB
+ Cabrera, NL
+ Corbett, KK
+ Sonnert, G
+ Eddy, SL
+ Chemers, MM
+ Freeman, S
+ Garcia, CA
+ Barrow, LH
+ Sweeder, RD
+ Fox, MF
+ Smyth, FL
+ Wright, C
+ Pollock, SJ
+ Pajares, F
+ Koomen, HMY
+ Moore, C
+ Bornmann, L
+ Lundy-Wagner, V
+ Patrick, H
+ Eagan, MK
+ Gutierrez, B
+ Cerna, O
+ Desrochers, C
+ Qi, J
+ Wawrzynski, MR
+ Kuh, GD
+ Briggs, WL
+ Blumenfeld, PC
+ Davidson-Shivers, GV
+ Cass, C
+ Settlage, J
+ Dewitt, J
+ Blessing, JS
+ Close, HG
+ Kriek, J
+ Zollman, DA
+ Finkelstein, ND
+ Coffey, JE
+ Etkina, E
+ Disessa, AA
+ Hammer, D
+ Haglund, J
+ Zebrowitz, LA
+ Dancy, M
+ Higgins, ET
+ Tullberg, BS
+ WHILTSHIRE, TJ
+ Bien, NV
+ Schultz, PW
+ Dasgupta, N
+ Trautwein, U
+ McDaniel, MA
+ Pekrun, R
+ Seitsinger, AM
+ Weinstein, RS
+ Chachra, D
+ Silliman, SE
+ Rodgers, KA
+ Hazari, Z
+ DeVore, S
+ Schell, J
+ Dundes, L
+ Chai, CS
+ Nola, R
+ Skopeliti, I
+ Jeffery, L
+ BECKETT, WS
+ Gonsalves, AJ
+ Vokos, S
+ Eryilmaz, A
+ Pollock, S
+ Deci, EL
+ Milner-Bolotin, M
+ Tsuchida, T
+ POMIANKOWSKI, A
+ BARBEE, AP
+ Brown, KG
+ Thoman, DB
+ Kloser, MJ
+ Young, TP
+ Waters, SD
+ Su, R
+ Saran, S
+ Ntoumanis, N
+ Herzog, L
+ Hodges, EVE
+ Fane, BA
+ Callanan, MA
+ HARLEY, C
+ Hamre, BK
+ Bergin, D
+ Taylor, AR
+ Lamborn, SD
+ Metz, A
+ Wulff, P
+ Thornton, RK
+ Meltzer, DE
+ Heron, PRL
+ Ho, HNJ
+ Richardson, PW
+ Kretchmar, J
+ Cromley, JG
+ Abrosio, FFE
+ McCord, JL
+ THORNHILL, R
+ RUSSELL, ML
+ Rau, M
+ Lariviere, V
+ Pokropek, A
+ King, B
+ Elby, A
+ Jones, B
+ Hadlock, TD
+ Sarrazin, P
+ Davis-Kean, PE
+ Dowson, M
+ Miles, S
+ Harachi, TW
+ HAMILTON, CE
+ Ladd, GW
+ Bigatti, SM
+ Ho, LH
+ Nemirovsky, R
+ Anderberg, E
+ Wu, CH
+ Gleason, KA
+ Geary, DC
+ Giuliani, SA
+ Jaffke, P
+ Guo, G
+ Kay, BP
+ San Andres, SA
+ Jones, S
+ Hukkanen, M
+ Dressler, L
+ Ghavamian, P
+ Spyrou, A
+ Margueron, J
+ Vogt, R
+ Svensson, E
+ Arbanas, G
+ Arbanas, G
+ Matheson, Z
+ Mattes, C
+ Schmidt, KH
+ Cao, Y
+ Ott, U
+ Finstad, D
+ Vassh, N
+ Weih, LR
+ Gorda, T
+ Piekarewicz, J
+ Scielzo, ND
+ Mazzali, P
+ Knap, M
+ Nakamura, K
+ Yasin, H
+ Lutostansky, YS
+ Domingo-Pardo, C
+ Reddy, S
+ Gobel, K
+ Larsen, AC
+ Frauendorf, S
+ Nishimura, S
+ Gyurky, G
+ Schuetrumpf, B
+ Engel, J
+ Burgio, GF
+ Sierk, AJ
+ Lentz, EJ
+ Huther, L
+ Nazarewicz, W
+ Melson, T
+ Ascher, P
+ Pinedo, GM
+ Nunes, FM
+ Avrigeanu, M
+ Arzhanov, A
+ Holt, JW
+ Alhassid, Y
+ Holt, JD
+ Liddick, SN
+ Robledo, LM
+ Uberseder, E
+ Lederer, C
+ Guttormsen, M
+ Lam, YH
+ Caballero, OL
+ Litvinov, YA
+ Mazurek, K
+ Sida, JL
+ Kiss, GG
+ Belov, N
+ Dauphas, N
+ Kromer, M
+ Blaum, K
+ Caurier, E
+ Dilling, J
+ Shen, G
+ Kondev, FG
+ Audi, G
+ Anderson, TS
+ Aprahamian, A
+ Burke, JT
+ Myers, WD
+ Sumiyoshi, K
+ Wang, N
+ Anderson, M
+ Bernstein, LA
+ Mohr, P
+ Loens, HP
+ Hennrich, S
+ Cuenca-Garcia, JJ
+ Meng, J
+ Liu, S
+ Dietrich, FS
+ Wasserburg, GJ
+ Vretenar, D
+ Meyer, BS
+ Gasques, LR
+ Li, R
+ Chankova, R
+ Estrade, A
+ Klimkiewicz, A
+ Tachibana, T
+ Korschinek, G
+ Gausemel, H
+ Khan, E
+ Geissel, H
+ WIESCHER, M
+ BLANN, M
+ Lim, Y
+ Klawitter, R
+ Reiter, MP
+ Nishio, K
+ Bingham, D
+ Zhang, CL
+ Althubiti, NAS
+ Zhao, J
+ Zhang, FS
+ Gelletly, W
+ Lacroix, D
+ Kortelainen, M
+ Wang, LH
+ Sokolowska, N
+ Margitych, TO
+ Dang, ND
+ Andrianov, V
+ Paulauskas, SV
+ Pei, JC
+ Peru, S
+ Bildstein, V
+ Dubray, N
+ Agbemava, SE
+ Gorelov, D
+ Lu, BN
+ Bader, A
+ Baczyk, P
+ Magierski, P
+ George, S
+ McDonnell, JD
+ Kim, YH
+ Chen, LW
+ Singh, B
+ Birkenbach, B
+ Bonett-Matiz, M
+ Bortignon, PF
+ Simenel, C
+ Loveland, W
+ Randrup, J
+ Reed, MW
+ Duke, D
+ Schunck, N
+ Paar, N
+ Qi, C
+ Dobaczewski, J
+ Chiba, S
+ Voronov, VV
+ Shafer, T
+ Ayik, S
+ Yee, RM
+ McDonnell, J
+ Umar, AS
+ Lascar, D
+ Schury, P
+ Baran, A
+ Hakala, J
+ Beck, D
+ Girod, M
+ Bernard, R
+ Sonzogni, AA
+ Aysto, J
+ Brunner, T
+ Kolhinen, VS
+ Sakurai, H
+ Uesaka, T
+ Kameda, D
+ Sheikh, JA
+ Matos, M
+ Gogny, D
+ Lesinski, T
+ Karvonen, P
+ Borgmann, C
+ Gade, A
+ Shimizu, YR
+ Mavrommatis, E
+ Bertulani, CA
+ Brodeur, M
+ Rahaman, S
+ Boyd, RN
+ Bachelet, C
+ Quentin, P
+ Samyn, M
+ Marketin, T
+ Bender, E
+ Vangioni, E
+ Adachi, T
+ Bardayan, DW
+ Musumarra, A
+ Herrmann, HW
+ Canete, L
+ Gonzalez-Garcia, MC
+ Chae, KY
+ Longland, R
+ Mathai, AM
+ Courtin, S
+ Funaki, Y
+ Tsujimoto, H
+ Furuno, K
+ Garcia, A
+ Ruiz, C
+ Kan, M
+ Meixner, M
+ Parikh, A
+ Datar, VM
+ Typel, S
+ Janka, T
+ Afanasjev, AV
+ Hammache, F
+ Bordeanu, C
+ Allen, RC
+ Anthony, DW
+ Ahmed, SN
+ Faestermann, T
+ Formicola, A
+ Vorobjev, GK
+ Elomaa, VV
+ Back, HO
+ Detwiler, R
+ Angulo, C
+ Hernanz, M
+ Champagne, AE
+ Moskalenko, IV
+ Barnes, CA
+ Rehm, KE
+ Cyburt, RH
+ Costantini, H
+ Adahchour, A
+ Azuma, RE
+ Kunz, R
+ Moon, CB
+ Algora, A
+ Rykaczewski, KP
+ Taieb, J
+ Kirseboom, OS
+ Simpson, GS
+ Brewer, NT
+ Sherrill, BM
+ Gargano, A
+ Terashima, S
+ Naidja, H
+ Lister, CJ
+ Yuan, YJ
+ Wang, M
+ Gey, G
+ Benlliure, J
+ Lorusso, G
+ Venkataramaniah, K
+ Huyse, M
+ Delaune, O
+ Fuller, GM
+ Eeckhaudt, S
+ Antalic, S
+ Nilsson, T
+ Mittig, W
+ Regan, PH
+ Shimoura, S
+ Rodriguez-Guzman, R
+ Elseviers, J
+ Pereira, J
+ Suhonen, J
+ Abbondanno, U
+ Beun, J
+ Koura, H
+ Caceres, L
+ Jokinen, A
+ Hager, U
+ Eronen, T
+ Dillmann, I
+ Champagne, C
+ Blomeley, L
+ Ackermann, D
+ Sato, K
+ Kretschmer, A
+ Yuksel, H
+ Genevey, J
+ Daly, PJ
+ Shubhchintak
+ Prakash, M
+ Cavallaro, M
+ Itagaki, N
+ Serpico, PD
+ Pearson, JM
+ Suzuki, Y
+ Agashe, K
+ Trezzi, D
+ Yakovlev, DG
+ Takahashi, K
+ Allardt, M
+ Iachello, F
+ Davids, B
+ Peng, J
+ Poltoratska, I
+ de Diego, R
+ Gazit, D
+ Rubio, B
+ Luu, T
+ Pradler, J
+ Towner, IS
+ Mangano, G
+ Dzhazairov-Kakhramanov, AV
+ Van Giai, NY
+ Igamov, SB
+ Rosati, S
+ Blackston, MA
+ Luis, H
+ Faessler, A
+ Guo, B
+ Barate, R
+ Karwowski, HJ
+ Viviani, M
+ van den Berg, AM
+ Ko, CM
+ Komori, M
+ Messer, OEB
+ Ferreira, LS
+ KAVANAGH, RW
+ OGATA, S
+ LICOT, I
+ MAK, HB
+ KOONIN, SE
+ Massimi, C
+ Guber, KH
+ Bionta, R
+ Tsinganis, A
+ Milazzo, PM
+ Friedman, M
+ Kappeler, F
+ Koehler, P
+ Reifarth, R
+ Calviani, M
+ Furutaka, K
+ Colonna, N
+ Fujii, K
+ Fukuda, N
+ Ahmed, MW
+ Ivanov, AN
+ Coquard, L
+ Bredeweg, TA
+ Wagemans, C
+ Voss, F
+ Ahle, L
+ Dababneh, S
+ Aerts, G
+ Gledenov, YM
+ KAPPELER, F
+ JAAG, S
+ WISSHAK, K
+ GRAFF, SM
+ VOSS, F
+ Montanari, F
+ Dimitriou, P
+ Krastev, PG
+ Ilkaev, RI
+ Khoa, DT
+ Erbacher, P
+ Tengblad, O
+ Boilig, R
+ Maurin, D
+ Wiescher, M
+ Bieda, M
+ Yanagita, S
+ Gabici, S
+ Sullivan, C
+ Tan, WP
+ Junker, M
+ Gulminelli, F
+ Gandolfi, S
+ Eliseev, S
+ Szucs, T
+ Capote, R
+ Chabrier, G
+ Hussain, IA
+ Marinova, KP
+ Rochman, D
+ Goutte, H
+ David, JC
+ Meot, V
+ Mosconi, M
+ Morel, P
+ Herman, M
+ Masaki, T
+ Belier, G
+ Utsunomiya, H
+ Berger, JF
+ Duijvestijn, MC
+ Zhang, M
+ Corsi, A
+ Hirayama, Y
+ Kobayashi, M
+ Atanasov, D
+ Bollen, G
+ Kostensalo, J
+ Burritt, TH
+ Mollaebrahimi, A
+ Giraud, S
+ Takechi, M
+ Karthein, J
+ Wada, M
+ Liu, JH
+ Kankainen, A
+ Altenmuller, K
+ Zhang, JT
+ Lee, J
+ Barquest, BR
+ Althubiti, N
+ Hornung, C
+ Gan, ZG
+ Zhang, HF
+ Langer, C
+ Indelicato, P
+ Cao, YC
+ Lantz, M
+ Sharkov, BY
+ Valverde, AA
+ Zhang, YH
+ Ahn, DS
+ Ito, Y
+ Chen, XC
+ Leach, KG
+ Kwiatkowski, AA
+ Sarmiento, LG
+ Alanssari, M
+ Pomp, S
+ Filianin, P
+ Hardy, JC
+ Kelic-Heil, A
+ Poves, A
+ Bissell, ML
+ Thomas, B
+ Frekers, D
+ Andreoiu, C
+ Berkaev, D
+ Sanchez, R
+ Woods, PJ
+ Valencia, E
+ Ariche, J
+ Wagner, A
+ Suzuki, S
+ Grossheim, A
+ Beyer, T
+ Schultz, BE
+ Kobayashi, N
+ Cakirli, RB
+ Abdullin, FS
+ Bale, JC
+ Novikov, YN
+ Papenbrock, T
+ Riisager, K
+ Cullen, IJ
+ Suzuki, T
+ Block, M
+ Casten, RF
+ Weinheimer, C
+ Ploszajczak, M
+ McDaniel, J
+ Adimi, N
+ Baruah, S
+ Lenzi, SM
+ Vinodkumar, AM
+ Kessler, EG
+ Nortershauser, W
+ Burvenich, TJ
+ Lofy, PA
+ Enqvist, T
+ Blank, B
+ Isi, M
+ Yu, HC
+ Field, SE
+ Yokoyama, S
+ Schmidt, P
+ Zlochower, Y
+ Ayriyan, A
+ Yungelson, LR
+ Zwart, SP
+ Raisbeck, GM
+ Shaviv, NJ
+ Watanabe, YX
+ Krucken, R
+ Kubo, T
+ Franchoo, S
+ Sinclair, L
+ Mukai, M
+ Garrote, FLB
+ Go, S
+ Watanabe, H
+ Goigoux, T
+ Zhu, S
+ Tsunoda, Y
+ Xu, FR
+ Crider, BP
+ Louchart, C
+ Dracoulis, GD
+ Pauwels, D
+ Kaneko, K
+ Macchiavelli, AO
+ Otsuka, T
+ Aoi, N
+ Sun, Y
+ Chiara, CJ
+ Covello, A
+ Gorska, M
+ Velazquez, V
+ Ueno, H
+ Rusu, C
+ Wood, JL
+ Liu, Z
+ Yoshinaga, K
+ Sarkar, MS
+ Vingerhoets, P
+ Nettleton, AS
+ Ivanov, O
+ Greiner, W
+ Goergen, A
+ Porquet, MG
+ Borge, MJG
+ Ren, ZZ
+ Grevy, S
+ Carpenter, MP
+ Janssens, RVF
+ Ramayya, AV
+ Liotta, RJ
+ Bazin, D
+ Roeckl, E
+ Morimoto, K
+ Brown, BA
+ Batist, L
+ Freeman, SJ
+ Matea, I
+ DRACOULIS, GD
+ SAGAWA, H
+ ISHIHARA, M
+ Takacs, MP
+ Aliotta, M
+ Barbagallo, M
+ De Cesare, N
+ Prati, P
+ Adam, J
+ Zhang, G
+ Lombardo, I
+ Wheldon, C
+ Perdikakis, G
+ Estee, J
+ Fornal, B
+ Cavanna, F
+ Scott, DA
+ Gannon, S
+ Roeder, BT
+ Anzalone, A
+ Nagae, T
+ Leoni, S
+ Crespi, FCL
+ Lovato, A
+ Greife, U
+ Steiner, AW
+ Pagano, A
+ Benussi, L
+ Ahmed, Z
+ Pozzi, G
+ Vitturi, A
+ Agodi, C
+ Azaiez, F
+ Li, BA
+ Lukasik, J
+ Freer, M
+ Rosales, P
+ Alderighi, M
+ Xiong, SL
+ Read, JS
+ Jones, G
+ Kadau, K
+ Bhattacharya, M
+ Loffler, F
+ Li, TGF
+ Khachatryan, V
+ Read, J
+ Pollney, D
+ Sperhake, U
+ Tichy, W
+ Shapere, AD
+ Landsberg, G
+ Metris, G
+ Do, T
+ Wang, C
+ Audley, H
+ Paolozzi, A
+ Broderick, AE
+ Blas, D
+ Weber, CTM
+ Abgrall, M
+ Toth, VT
+ Faraoni, V
+ Zhan, BF
+ McGaugh, SS
+ Brown, JM
+ Laemmerzahl, C
+ Kunz, J
+ Russell, N
+ Scully, ST
+ Ludlow, AD
+ Choi, KY
+ Guan, SG
+ Cook, TS
+ Comer, GL
+ Nazarov, AI
+ Chapelet, F
+ Nicolis, A
+ Moore, GD
+ Tobar, ME
+ Taylor, BN
+ Lipphardt, B
+ Kolachevsky, N
+ Davis, AN
+ Davis, JL
+ Chand, H
+ Herrmann, S
+ Diddams, SA
+ Dos Santos, FP
+ Nissen, JA
+ Bize, S
+ Schmidt, U
+ Platscher, M
+ Deskins, JT
+ von Strauss, M
+ Yang, SQ
+ Jain, B
+ Serone, M
+ Mortonson, MJ
+ Koivisto, TS
+ Appleby, S
+ Huang, YQ
+ Hui, L
+ Crisostomi, M
+ Scott, D
+ Rosen, RA
+ Du, XL
+ Copeland, EJ
+ Yamaguchi, M
+ Papantonopoulos, E
+ Visser, M
+ Pang, Y
+ Papazoglou, A
+ Mannheim, PD
+ Fitzpatrick, AL
+ King, L
+ Kaloper, N
+ Woodard, RP
+ Kiley, D
+ Sapone, D
+ Zamarias, V
+ Melchiorri, A
+ Challinor, A
+ Hebecker, A
+ Ng, SP
+ Albergo, MS
+ Neufcourt, L
+ Perez, RN
+ Fasano, PJ
+ Regnier, D
+ Carlson, J
+ Neveu, N
+ Golak, J
+ Neill, D
+ Boser, S
+ Sandulescu, N
+ Su, C
+ Peng, D
+ King, GB
+ Pang, LG
+ Hagen, G
+ Fang, JY
+ Vargas, CZ
+ Ball, RD
+ Moreland, JS
+ Furnstahl, RJ
+ Forssen, C
+ Bohler, D
+ Lovell, AE
+ Vary, JP
+ Orginos, K
+ Kroyter, M
+ Horiuchi, H
+ Nocera, ER
+ Metodiev, EM
+ Bernhard, JE
+ Epelbaum, E
+ Sato, N
+ Wesolowski, S
+ Chen, WC
+ Li, N
+ Liuti, S
+ Sangaline, E
+ Ollitrault, JY
+ Terzic, B
+ Muller, D
+ Phillips, DR
+ Sinclair, CK
+ Bischoff, A
+ Aoki, Y
+ Romero-Lopez, F
+ Aoki, S
+ Obertelli, A
+ Doring, M
+ Kanungo, R
+ Bulava, J
+ Hebeler, K
+ Hergert, H
+ Binder, S
+ Schiavilla, R
+ Huth, L
+ He, RZ
+ Krebs, H
+ Sasaki, K
+ Simonis, J
+ Barbieri, C
+ Baroni, A
+ Pang, JY
+ Carbone, A
+ Machleidt, R
+ Rotureau, J
+ Stroberg, SR
+ Hammer, HW
+ Gezerlis, A
+ Danielewicz, P
+ Dudek, JJ
+ Navratil, P
+ Lynn, JE
+ Jansen, GR
+ Hjorth-Jensen, M
+ Mei, Y
+ de Elvira, JR
+ Bogner, SK
+ Ekstrom, A
+ Barnea, N
+ Klco, N
+ Girlanda, L
+ Contessi, L
+ Ishii, N
+ Meiner, UG
+ Cipollone, A
+ Chang, E
+ Baardsen, G
+ Kruger, T
+ Hoja, D
+ Yang, CJ
+ Rusetsky, A
+ Entem, DR
+ Detmold, W
+ Schwenk, A
+ Quaglioni, S
+ Gegelia, J
+ Arriola, ER
+ Timmermans, RGE
+ Sachrajda, CT
+ Feng, X
+ Glockle, W
+ Pieper, SC
+ STOKS, VGJ
+ DESWART, JJ
+ Lutz, MFM
+ Finkenrath, J
+ Kaneko, T
+ Gerard, JM
+ Della Morte, M
+ Della Morte, M
+ Gorchtein, M
+ Lanz, S
+ Achasov, MN
+ Heo, Y
+ Herdoiza, G
+ Lucini, B
+ Bacchetta, A
+ Fritzsch, P
+ Davoudi, Z
+ Melnitchouk, W
+ Cossu, G
+ Dees, EB
+ Lubicz, V
+ Banerjee, S
+ Kanamori, I
+ Del Debbio, L
+ Garron, N
+ Constantinou, M
+ Meyer, HB
+ Gulpers, V
+ Brida, MD
+ Guo, FK
+ Kamali, S
+ Luscher, M
+ Adeva, B
+ Bijnens, J
+ Chetyrkin, KG
+ Ruijl, B
+ Yang, YB
+ Hudspith, RJ
+ Nakamura, Y
+ Fukaya, H
+ Alekhin, S
+ Shindler, A
+ Maier, A
+ Alexandrou, C
+ Fodor, Z
+ Weisz, P
+ Juttner, A
+ Patella, A
+ Blum, T
+ Cirigliano, V
+ Rossler, T
+ Bazavov, A
+ Jost, C
+ Hoang, AH
+ Christ, NH
+ Courtoy, A
+ Giusti, L
+ Djukanovic, D
+ Edwards, RG
+ Deuzeman, A
+ Peters, A
+ Morenas, V
+ Bernard, C
+ Ciuchini, M
+ Harindranath, A
+ Camalich, JM
+ Bostrom, E
+ Ecker, G
+ Degrassi, G
+ Durr, S
+ Garcia-Ramos, E
+ Lepage, GP
+ Ramos, A
+ Schaefer, S
+ Flynn, JM
+ Olsen, SL
+ Jansen, K
+ Markisch, B
+ Pattie, RW
+ Carrasco, N
+ Bruns, PC
+ Knechtli, F
+ Geng, LS
+ Ent, R
+ Descotes-Genon, S
+ Jager, B
+ Procura, M
+ Drach, V
+ Dimopoulos, P
+ Gorbahn, M
+ Colangelo, G
+ Jemos, I
+ Karbstein, F
+ Donnellan, M
+ Meissner, UG
+ Paz, G
+ Hart, AG
+ Hoschele, M
+ Bloch, J
+ Sommer, R
+ Ishikawa, KI
+ Weiermann, C
+ Lage, M
+ Tormo, XGI
+ Palombi, F
+ Asner, DM
+ Boucaud, P
+ Pawlowski, JM
+ Hashimoto, S
+ Toussaint, D
+ McNeile, C
+ Kiyo, Y
+ Smirnov, VA
+ Maierhofer, P
+ Hierl, D
+ Freeman, W
+ Van Giai, N
+ Walker-Loud, A
+ Neufeld, H
+ Damgaard, PH
+ Hayakawa, M
+ Wolfe, CE
+ Davies, CTH
+ Boyle, PA
+ Roca, L
+ Akernann, G
+ Steinhauser, M
+ Heitger, J
+ Diehl, M
+ Hoffmann, R
+ Kuhn, JH
+ Verbeni, M
+ Kotikov, AV
+ Khodjamirian, A
+ Neuberger, H
+ Fuhrer, A
+ Fleming, GT
+ Blossier, B
+ Leroy, JP
+ Grinstein, B
+ Trottier, HD
+ Ritz, A
+ Frezzotti, R
+ Horsley, R
+ Aubin, C
+ Isidori, G
+ Jamin, M
+ Hart, A
+ Kayaba, Y
+ Rossi, GC
+ Bakeyev, T
+ Hernandez, P
+ Oller, JA
+ Follana, E
+ Carey, J
+ Zurbriggen, EL
+ Bache, LM
+ Lewis, GB
+ Brown, CS
+ Heine, SJ
+ Rubel, T
+ Harber, KD
+ Uosif, MAM
+ Walton, G
+ Dutra, M
+ Heikinheimo, M
+ Tumasyan, A
+ Alsum, S
+ Xiao, MJ
+ Abramowski, A
+ Alpat, B
+ Ageron, M
+ Jacques, T
+ Sanchez-Conde, M
+ Green, AM
+ Araujo, HM
+ Camargo-Molina, JE
+ Krishnamurthy, S
+ Rauch, L
+ Cohen-Tanugi, J
+ Buchmueller, O
+ Franse, J
+ Luo, F
+ Walker, MG
+ Villadoro, G
+ Lee, S
+ Baer, HA
+ Wulzer, A
+ Abe, K
+ Hellmann, C
+ Gainer, JS
+ Agnes, P
+ Cavanaugh, R
+ Ruchayskiy, O
+ Kuflik, E
+ Dighera, F
+ Aguilar, M
+ Fornengo, N
+ Heinemeyer, S
+ Howe, K
+ Belli, P
+ Nagao, KI
+ Kim, JE
+ Ghosh, D
+ Hook, A
+ Buckley, A
+ Volkas, RR
+ Abbasi, R
+ Casas, JA
+ Alberti, G
+ Acero, F
+ White, SDM
+ Graesser, ML
+ Ferreira, PM
+ Kannike, K
+ Bhang, H
+ Covi, L
+ Lineros, R
+ Shoemaker, IM
+ Li, XD
+ Cao, QH
+ Iengo, R
+ Mikheeva, EV
+ Fox, PJ
+ Panci, P
+ Hugonie, C
+ Kitching, T
+ Jedamzik, K
+ Schwaller, P
+ Nojiri, MM
+ Kadastik, M
+ Kanemura, S
+ Hoche, S
+ Kumar, J
+ Gieseke, S
+ Thaler, J
+ Bobkov, K
+ Bergstrom, L
+ Goh, HS
+ Delgado, A
+ Tucker-Smith, D
+ Rajaraman, A
+ Feng, JL
+ Schwarz, S
+ Wienholtz, F
+ Dickel, T
+ Baartman, R
+ Andres, SAS
+ Schiel, D
+ Gehring, AE
+ Vieira, N
+ Lam, SF
+ Biggs, J
+ Pintrich, PR
+ Canning, EA
+ Kukliansky, I
+ Nokes-Malach, TJ
+ Hirokawa, T
+ Donnelly, R
+ Lin-Siegler, X
+ Mehalik, MM
+ EGHARRI, H
+ Gauthier, A
+ Cavagnetto, A
+ Mason, A
+ Linder, C
+ Champaign, J
+ Marsh, HW
+ Mayer, RE
+ Kalet, AL
+ Elen, J
+ van Joolingen, WR
+ Grabowski, BL
+ Frederiksen, J
+ McNamara, D
+ Zamboanga, BL
+ Deloney, LA
+ McGregor, HA
+ Tiedens, LZ
+ Lukowski, SL
+ Barth, JM
+ Kanny, MA
+ Schmader, T
+ Eagly, AH
+ Redick, TS
+ Nosek, BA
+ Thiem, KC
+ Wai, J
+ Master, A
+ Cameron, JS
+ Krizan, Z
+ Fisher, J
+ Ginther, DK
+ Samuelson, CC
+ Cheung, AK
+ Pettigrew, TF
+ DiPrete, TA
+ Vescio, TK
+ Gore, PA
+ Mineo, CC
+ Ruff, C
+ Kanfer, R
+ Guzman, S
+ Margolis, J
+ Schult, J
+ Pea, R
+ Fischer, MJ
+ McDonald, SK
+ Mistele, JM
+ Nelson, LD
+ Levine, CS
+ Young, AF
+ Dinella, LM
+ Carlstrom, AH
+ Spencer, SJ
+ Vandello, JA
+ Kearn, J
+ Diekman, AB
+ Bosson, JK
+ Andrews, N
+ Daniel, LG
+ Hartman, M
+ Steiner, HH
+ Phelan, JE
+ Allen, KR
+ Denson, N
+ Papierno, PB
+ Dunning, D
+ Banaji, MR
+ Karau, SJ
+ Mueller, EM
+ Tost, LP
+ Mussweiler, T
+ Greenaway, KH
+ Simon, S
+ Flynn, FJ
+ Salas, E
+ Claypool, HM
+ Glick, P
+ HEIMBERG, RG
+ Judd, CM
+ Trope, Y
+ DeBruine, LM
+ Smith, MJL
+ Smith, FG
+ Niesta, D
+ Kryspin-Exner, I
+ Apicella, CL
+ Pawlowski, B
+ Mamanian, D
+ Faurie, C
+ Neave, N
+ Garver-Apgar, CE
+ Zhang, Q
+ Maloney, LT
+ Leopold, DA
+ Cathey, MG
+ Kaping, D
+ Chan, J
+ Johansson, LC
+ Alnwick, KA
+ Penton-Voak, IS
+ Dal Martello, MF
+ Quah, SH
+ MacLin, OH
+ Bridgstock, R
+ ARAK, A
+ GANGESTAD, SW
+ KEELE, SW
+ ARONSON, V
+ Tybur, JM
+ Mayo, M
+ Heistermann, M
+ Emlen, ST
+ GUILFORD, TC
+ Jacobs, JE
+ Chapman, JP
+ Taylor, JA
+ Knipprath, H
+ Tan, YSM
+ Putnick, DL
+ Neumann, K
+ Kim, BC
+ Byun, SY
+ Janssen, FJJM
+ Hottecke, D
+ Moru, EK
+ Gras-Marti, A
+ Gunstone, R
+ Chang, CY
+ Morrison-Love, D
+ Harwell, M
+ Makela, CJ
+ Stuessy, C
+ Seifert, AL
+ Kermish-Allen, R
+ Andrade, R
+ Guzey, S
+ Moore, TJ
+ Herro, D
+ Knowles, JG
+ Kirchgasler, KL
+ Miller, RL
+ Duit, R
+ Olsson, L
+ Spero, RB
+ van Knippenberg, A
+ PIERSON, FM
+ KULIG, K
+ Knezek, G
+ Koziol, N
+ Tran, TT
+ Smith, JB
+ Wagner, P
+ He, Y
+ Kruse, RA
+ Pak, AWP
+ Jones, FHM
+ Pelaez, NJ
+ Armstrong, JE
+ Bamberry, NJ
+ Abedin, M
+ Goh, JX
+ Rubineau, B
+ Rosivall, B
+ HilleRisLambers, J
+ Haak, D
+ Glienke, BB
+ Krieger, LH
+ Omland, KS
+ Lincoln, AE
+ Moussalli, A
+ Anderson, DR
+ Page, ME
+ Oreopoulos, P
+ Anderman, LH
+ George, CE
+ Ko, L
+ Cimpian, A
+ Hidi, S
+ Kersting, N
+ Silbey, SS
+ Dalgarno, B
+ Zo, HJ
+ Bianco, M
+ Fanson, KV
+ Perez, T
+ Inzlicht, M
+ Rydell, RJ
+ Deemer, ED
+ Bigler, RS
+ White, PH
+ Goff, PA
+ Schuler, J
+ Hulleman, CS
+ Martens, MP
+ Laursen, SL
+ Muthen, BO
+ Bauer, DJ
+ Horst, SJ
+ Lepper, MR
+ Muthen, LK
+ Fortier, MS
+ CONNELL, JP
+ Mello, ZR
+ Fok, CCT
+ Dunbar, D
+ Kronberger, N
+ Roeser, RW
+ Collaer, ML
+ Monte, F
+ McWhirter, EH
+ Kaplan, R
+ Knickmeyer, RC
+ Nickens, SD
+ Vida, MN
+ Pedersen, S
+ Murphy, LM
+ Yip, T
+ Webb, RM
+ Webb, RM
+ Oh, IS
+ DeRosier, ME
+ Cottone, EA
+ Solberg, S
+ Vandell, DL
+ Izard, CE
+ Dona, DP
+ Chipuer, HM
+ Bronen, R
+ McCartney, K
+ Kwok, OM
+ Son, SH
+ Welsh, JA
+ Hamm, JV
+ Boekaerts, M
+ Reid, RJ
+ Crede, M
+ Measelle, JR
+ Connell, JP
+ Marcus, JL
+ Burchinal, MR
+ Burgess, KB
+ Stipek, DJ
+ Birch, SH
+ Kruger, LJ
+ FURMAN, W
+ Chen, Q
+ Anthony, JL
+ Antonishak, J
+ Luo, W
+ Zhang, DA
+ Zarrett, NR
+ Cortes, Rebecca C
+ Hanish, LD
+ Greenberg, MT
+ Stipek, D
+ Hughes, JN
+ Dorsey, S
+ Cavell, TA
+ Barbaranelli, C
+ WIGFIELD, A
+ TISAK, J
+ PIKE, R
+ Zhou, Q
+ La Paro, KM
+ Volpe, RJ
+ Johnson, MK
+ Lockwood, CM
+ Kobak, R
+ Snowling, MJ
+ AHADI, SA
+ ENTWISLE, DR
+ FELDLAUFER, H
+ ERON, LD
+ NEWMAN, RS
+ ROBERTS, MD
+ Markman, LB
+ Castellino, DR
+ Bolger, N
+ MacKinnon, DP
+ Anderman, EM
+ KHOURY, EL
+ Appelbaum, MI
+ Keller, H
+ Linver, MR
+ Brooks-Gunn, J
+ Corwyn, RF
+ Reid, MJ
+ Pickles, A
+ Morris, AS
+ Maccoby, EE
+ Berlin, LJ
+ Cox, A
+ Lamberty, G
+ WHITESIDE, L
+ BROOKSGUNN, J
+ FERGUSON, J
+ Culp, RE
+ Campbell, FA
+ Black, MM
+ RAMEY, CT
+ APFEL, NH
+ KLEBANOV, PK
+ FRYE, KF
+ WESTON, DR
+ PHARES, V
+ Ritchie, JE
+ Rozek, CS
+ Maass, A
+ Brewer, MB
+ Hayes, AF
+ Wigfield, A
+ Hilton, JL
+ ECCLES, JS
+ Fredricks, JA
+ Uhlmann, EL
+ Gaertner, SL
+ Ashmore, RD
+ Miller, DT
+ Stern, HS
+ Chajut, E
+ Wilder, DA
+ Aronson, J
+ Wilensky, U
+ Chi, MTH
+ Reisman, K
+ Gibbs, RW
+ Kurtz, JE
+ Steele, JR
+ Webster, GD
+ Kilduff, GJ
+ Moss-Racusin, CA
+ Unzueta, MM
+ Adams, RB
+ Patel, S
+ Oldmeadow, JA
+ Borak, DJ
+ Todorov, A
+ Belin, P
+ Hodges, CR
+ Pound, N
+ Chen, JY
+ Mahoney, KT
+ Montepare, JM
+ Arizaga, JA
+ Halpern, DF
+ Drury, BJ
+ Fryberg, SA
+ Stake, JE
+ BURTON, AM
+ Leslie, SJ
+ Mikulincer, M
+ Isen, AM
+ Wallen, AS
+ Akinola, M
+ Hansen, CB
+ Jansen-Osmann, P
+ Bargh, JA
+ Stenner, AJ
+ Lengua, LJ
+ JUFFER, F
+ Valenti, SS
+ Ashcraft, AM
+ Brescoll, VL
+ Burt, DM
+ Ericsson, KA
+ Cheryan, S
+ Lench, HC
+ Marx, DM
+ Markus, HR
+ Halim, L
+ Siverling, EA
+ Smith, JC
+ Estrada, Y
+ Rupprecht, T
+ Wanner, B
+ Murray, KA
+ Domitrovich, CE
+ Repetti, RL
+ Koestner, R
+ Pahlke, E
+ vanDellen, M
+ Liu, LD
+ Grand, RJJ
+ Inoue, S
+ Wehmeyer, B
+ Hungerford, AL
+ Brown, SM
+ Sukhbold, T
+ Hayashi, K
+ Ghosh, S
+ Liao, NH
+ Colpi, M
+ Vilagos, B
+ Dotti, M
+ Margalit, B
+ Gorbaneva, T
+ Safi-Harb, S
+ Hansen, TT
+ van der Horst, A
+ Kushnir, D
+ Tolstoy, E
+ Greggio, L
+ Sitnova, TM
+ Andrews, JJ
+ Stevenson, S
+ Farrell, EM
+ Palit, I
+ Valluri, M
+ Halevi, G
+ Tanvir, NR
+ Tanvir, NR
+ Capelo, PR
+ Couch, SM
+ Wise, JH
+ Dolence, JC
+ Mazzali, PA
+ Villar, VA
+ Annis, J
+ Gonzalez-Fernandez, C
+ Marshall, JL
+ Da Costa, GS
+ Battino, U
+ Naiman, J
+ Daigne, F
+ Cano, Z
+ Duffell, PC
+ Kelic, A
+ Prantzos, N
+ Koch, A
+ Hopkins, PF
+ Martig, M
+ Eriksson, K
+ Moller, P
+ Magkotsios, G
+ Thompson, IB
+ Oey, MS
+ Guhathakurta, P
+ Pethick, CJ
+ Barbuy, B
+ Lee, YS
+ Hartman, H
+ Lee, WH
+ Pagliara, G
+ Darbha, S
+ Mezzacappa, A
+ Steffen, M
+ Recchi, S
+ Kroupa, P
+ Sauval, AJ
+ Kitaura, FS
+ Ruffert, M
+ Freiburghaus, C
+ Scheck, L
+ Marek, A
+ Mizuta, A
+ Decourchelle, A
+ Arai, K
+ McWilliam, A
+ Poghosyan, G
+ Arnone, E
+ Silk, J
+ Nelson, D
+ Wang, YZ
+ Chertkow, MA
+ Schonrich, R
+ Bailey, JI
+ Olszewski, EW
+ Li, TS
+ Ryan, SG
+ Balbinot, E
+ Torrealba, G
+ Hachisu, I
+ McLaughlin, MA
+ Bower, RG
+ Geha, M
+ Serenelli, A
+ Nataf, DM
+ Gao, H
+ Sobeck, JS
+ Fryer, C
+ Norman, ML
+ Primack, J
+ Barklem, PS
+ Tosi, M
+ Nissen, PE
+ Johnson, JA
+ Cowan, J
+ Sadakane, K
+ Reinecke, M
+ Zurbuchen, TH
+ Villante, FL
+ Petermann, I
+ Trevisan, P
+ Malheiro, M
+ Cantelli, E
+ Lin, PH
+ Maiorca, E
+ Plez, B
+ Sijacki, D
+ Han, Z
+ Thomas, PA
+ Ruffini, R
+ Zhang, X
+ Wang, T
+ Stancliffe, RJ
+ Fujimoto, MY
+ Martin, P
+ Vink, JS
+ Sbordone, L
+ Austin, SM
+ Meynet, G
+ McCarthy, DW
+ Chen, X
+ Nolta, MR
+ Pruet, J
+ Zhao, G
+ Maeder, A
+ Cox, AN
+ Descouvemont, P
+ Almgren, AS
+ Stadermann, FJ
+ Ferguson, R
+ Fink, M
+ Chen, AW
+ Ferguson, JW
+ Hill, RS
+ Houdek, G
+ Murphy, MT
+ Werner, K
+ Trieloff, M
+ Mendez, M
+ Galloway, DK
+ Asida, SM
+ Schmidt, W
+ Peimbert, A
+ Han, ZW
+ Truran, JW
+ Lattanzio, J
+ Weinberg, NN
+ Pedemonte, AG
+ Richard, O
+ Sivarani, T
+ Lester, WR
+ Walch, S
+ Hungerford, A
+ Wasserman, I
+ Oran, ES
+ Shara, MM
+ Lamb, DQ
+ Steeghs, D
+ Kuromizu, R
+ Menten, KM
+ Hawkins, K
+ Kuulkers, E
+ Pian, E
+ Haugbolle, T
+ Krause, MGH
+ Bagetakos, Y
+ Hachinger, S
+ Krause, M
+ Schaffner-Bielich, J
+ Koning, AJ
+ Nishikawa, KI
+ Ibanez, JM
+ Arnett, WD
+ Armitage-Caplan, C
+ Cavecchi, Y
+ Jorgenson, RA
+ Allafort, A
+ Xu, Y
+ Capogrosso, V
+ Srianand, R
+ Teoh, A
+ Alpizar-Vicente, A
+ Segawa, M
+ Woodward, P
+ Metcalfe, N
+ Medvid, S
+ Togashi, H
+ Bennett, CL
+ Potekhin, AY
+ Recio-Blanco, A
+ Hakobyan, AA
+ Wiedenbeck, ME
+ Delgado, L
+ Yuan, WL
+ Ceccarelli, C
+ Roederer, IU
+ Giridhar, S
+ Ellis, JA
+ Hernandez, JIG
+ Zegers, RGT
+ Taillet, R
+ Jorissen, A
+ Srinivasan, G
+ Woodward, CE
+ Juric, M
+ Williams, JP
+ Hueckstaedt, RM
+ Hubrig, S
+ Taverna, R
+ Zelati, FC
+ Bouffanais, Y
+ Broekgaarden, FS
+ Abraham, S
+ Fields, CE
+ Romanowsky, AJ
+ Montanari, E
+ Blinnikov, S
+ de Mink, SE
+ Gerosa, D
+ Sweet, SM
+ Powell, J
+ Heyl, J
+ Ng, KKY
+ Henault-Brunet, V
+ Rodriguez, C
+ Bellovary, J
+ Carrillo, I
+ Marchesi, S
+ Carrasco, ER
+ Raffai, P
+ Zhao, YT
+ Veitch, J
+ Giersz, M
+ Hamers, AS
+ Lyne, AG
+ Farr, B
+ Gallo, E
+ Pankow, C
+ Gladysz, W
+ McKernan, B
+ Fabbiano, G
+ Rodriguez, CL
+ Hypki, A
+ Bai, Y
+ Barth, AJ
+ Lobanov, AP
+ Godet, O
+ Lacour, S
+ Origlia, L
+ Girardi, L
+ Lyra, W
+ Yuan, WM
+ Sivakoff, GR
+ Walton, DJ
+ Maccarone, TJ
+ Wiktorowicz, G
+ Hau, GKT
+ Lin, DC
+ Noyola, E
+ Zytkow, AN
+ Neumayer, N
+ Shoemaker, D
+ Bergmann, M
+ Rees, MJ
+ Hamilton, DP
+ Rutledge, RE
+ Favata, M
+ Vigna-Gomez, A
+ Lamb, FK
+ Anand, S
+ Ryan, G
+ Zhang, CM
+ Gomez, S
+ Tang, PN
+ Gunther, HM
+ Arca-Sedda, M
+ Torrejon, JM
+ Lavaux, G
+ Middleton, H
+ Lutovinov, A
+ Greenfield, P
+ Burkart, J
+ Chapman, A
+ Cantrell, A
+ van de Ven, G
+ van den Berg, M
+ Barway, S
+ Haggard, D
+ Cooke, J
+ Resmi, L
+ Kornilov, VG
+ Ruan, JJ
+ Howell, DA
+ Yang, S
+ Feige, J
+ Lau, RM
+ Bekki, K
+ Pescalli, A
+ Ellis, JR
+ Holtzman, JA
+ Schwab, J
+ Shaviv, N
+ Lopez-Camara, D
+ Oda, T
+ Jakobsson, P
+ Han, JL
+ Lesaffre, P
+ Poelarends, AJT
+ Shetrone, MD
+ Amarsi, AM
+ Seitenzahl, IR
+ Dopita, MA
+ Hirschmann, M
+ Hernquist, L
+ Pan, LB
+ Walcher, J
+ Minchev, I
+ Sales, LV
+ Pignata, G
+ Modjaz, M
+ Widrow, LM
+ Dilday, B
+ Young, PA
+ Doi, M
+ van Dokkum, PG
+ Lau, HHB
+ Thompson, I
+ Goodwin, SP
+ Bessell, MS
+ Brandt, TD
+ Trinchant, LM
+ Conley, A
+ Sousa, SG
+ Kewley, L
+ Amanullah, R
+ Madau, P
+ Zemp, M
+ Schawinski, K
+ Bassett, B
+ Korotin, SA
+ Diemand, J
+ Theuns, T
+ Zaldarriaga, M
+ Cayrel, R
+ Rich, J
+ Cappellaro, E
+ Tornatore, L
+ Lundstrom, I
+ Altavilla, G
+ Alard, C
+ Bruno, CG
+ Guseva, NG
+ Trippella, O
+ Bragaglia, A
+ Sawano, T
+ Gogus, E
+ Wu, XF
+ Davis, SW
+ Nakauchi, D
+ Asano, K
+ Wynn, GA
+ Baumgartner, WH
+ Yamazaki, R
+ Page, KL
+ Nava, L
+ Nakamoto, T
+ Alfaro, R
+ Vibhute, A
+ Macquart, JP
+ Hallinan, G
+ Kanner, J
+ Honscheid, K
+ Camp, J
+ von Ahlefeld, VW
+ Gunst, AW
+ Christensen, FE
+ Georgieva, A
+ Cherry, ML
+ Courvoisier, TJL
+ Preece, RD
+ von Kienlin, A
+ Axtens, P
+ Bhat, PN
+ Argan, A
+ Price, PA
+ Bartel, N
+ Capalbi, M
+ Chen, HW
+ Gorosabel, J
+ Nousek, JA
+ Morsony, BJ
+ Hoffmann, SL
+ Zhang, BB
+ Meacher, D
+ Branchesi, M
+ Guidorzi, C
+ Davies, MB
+ Greiner, J
+ Gehrels, N
+ Marshall, FE
+ Garnavich, PM
+ Pooley, D
+ Banday, AJ
+ Gammie, CF
+ Bandyopadhyay, D
+ De Yoreo, M
+ Ransom, SM
+ Zagkouris, K
+ Klimas, A
+ Bell, B
+ Reula, O
+ Teuben, P
+ Bucciantini, N
+ Miralles, JA
+ Salmonson, JD
+ Paris, M
+ Gourgoulhon, E
+ Jones, DI
+ Font, JA
+ Giommi, P
+ Amorim, A
+ Salazar-Albornoz, S
+ Brown, AGA
+ Alexander, P
+ Stocke, JT
+ Ferdman, RD
+ Battat, JBR
+ Biskupek, L
+ Taylor, JH
+ Hayakawa, H
+ Jessner, A
+ Wolf, P
+ Lanyi, G
+ Boggs, DH
+ Trippe, S
+ Blandford, RD
+ Price, RH
+ Tingay, SJ
+ Gough, DO
+ Gillessen, S
+ Ghez, AM
+ Irbah, A
+ Murphy, TW
+ Levshakov, SA
+ Wang, FY
+ Croft, RAC
+ More, S
+ Crandall, S
+ Zuntz, J
+ Childress, M
+ Ashdown, M
+ Vernieri, D
+ He, SY
+ Rizzato, M
+ Blazek, J
+ Hoekstra, H
+ Sehgal, N
+ Harrington, N
+ Howlett, C
+ Alves, MIR
+ Foley, RJ
+ Anthony, AE
+ Nishimichi, T
+ Heavens, A
+ Regnault, N
+ Parkinson, D
+ Ahn, CP
+ Nichol, R
+ Scowcroft, V
+ Zahn, O
+ Colless, M
+ Brinkmann, J
+ Kirk, D
+ Raccanelli, A
+ Aird, KA
+ Beutler, F
+ Poole, GB
+ Granett, BR
+ Mainzer, AK
+ Cimatti, A
+ Joachimi, B
+ Ziour, R
+ Hewett, PC
+ Allam, SS
+ Oguri, M
+ Dore, O
+ Zhao, HS
+ Tucci, M
+ Hogg, DW
+ Jaunsen, AO
+ Page, L
+ Tonry, J
+ Lazic, V
+ Crocker, RM
+ Foster, A
+ Akimoto, F
+ Bechtol, K
+ Bernitt, S
+ Vincent, AC
+ Iakubovskyi, D
+ Atwood, WB
+ Raassen, AJJ
+ Bazilevskaya, GA
+ Allen, SW
+ Branchini, E
+ Erben, T
+ Giusarma, E
+ Frenk, CS
+ Lawrence, A
+ Raidal, M
+ Buote, DA
+ Clowe, D
+ Bazer-Bachi, AR
+ Gonzalez, AH
+ Exertier, P
+ Kuchynka, P
+ Guercilena, F
+ Volpe, C
+ Neilsen, D
+ Li, YF
+ Hudepohl, L
+ Lasserre, T
+ Etienne, ZB
+ Zinner, NT
+ Pandit, D
+ Shuai, P
+ Shuai, P
+ Brege, W
+ Davis, PJ
+ Rolfs, CE
+ Bonetti, S
+ Heusser, G
+ Antonelli, M
+ MCMILLAN, SLW
+ Wu, J
+ Yoshida, K
+ Valiente-Dobon, JJ
+ Hashimoto, T
+ Tkachev, I
+ Fiorentini, G
+ Mukhamedzhanov, AM
+ Dmitriev, VF
+ Hyun, CH
+ Confortola, F
+ Kharitonov, A
+ Shima, T
+ Dietz, A
+ Akiyoshi, H
+ Haensel, P
+ Vittino, A
+ Colo, G
+ Arenshtam, A
+ Arenshtam, A
+ Giacoppo, F
+ Aglietta, M
+ Allard, D
+ Sigl, G
+ Dedes, I
+ Bagchi, S
+ Tu, XL
+ Wu, XZ
+ Buhler, P
+ Fukuda, M
+ Winckler, N
+ Attallah, F
+ Landfield, RE
+ Pani, P
+ Ghonge, S
+ Iozzo, DAB
+ Young, S
+ Yang, H
+ Broadhurst, T
+ Sandstad, M
+ Drago, M
+ Sathyaprakash, BS
+ Agatsuma, K
+ Acernese, F
+ Starinets, AO
+ Blair, CD
+ Lundgren, A
+ Dudi, R
+ Irwin, BS
+ Oslowski, S
+ Davis, D
+ Urban, AL
+ Massinger, TJ
+ Thakor, N
+ Harry, IW
+ Germain, V
+ Frolov, VV
+ Brady, PR
+ Luan, J
+ Villain, L
+ Wen, LQ
+ Ochsner, E
+ Gergely, LA
+ Fragos, T
+ Moschner, K
+ Byrne, AP
+ Odahara, A
+ Amthor, A
+ Batchelder, JC
+ Lanza, EG
+ Andrzejewski, J
+ Aggarwal, MM
+ Ahn, JK
+ Zoric, M
+ Stachel, J
+ Murray, NW
+ Dhillon, VS
+ Lambert, S
+ Bourgoin, A
+ Szilagyi, B
+ Maione, F
+ Johnson-McDaniel, NK
+ Pnigouras, P
+ Ottewill, AC
+ Cornish, N
+ Cadonati, L
+ Pappas, G
+ Faber, JA
+ Dionysopoulou, K
+ Harte, AI
+ Bentivegna, E
+ Stephens, BC
+ Brugmann, B
+ Mroue, AH
+ Hinder, I
+ Kellerman, T
+ Yamamoto, T
+ Yamamoto, T
+ Kimura, M
+ Chu, T
+ Misner, CW
+ Smith, JR
+ Manca, GM
+ Millward, RS
+ Montero, PJ
+ MIRALLES, JA
+ Vega, I
+ Bertone, S
+ Lebach, DE
+ DeBra, DB
+ Jacobson, RA
+ Mostepanenko, VM
+ Worden, P
+ Phillips, JD
+ Gundlach, JH
+ Belov, A
+ Tanaka, T
+ Borde, CJ
+ Smith, TL
+ Kawamura, S
+ Mikkola, S
+ Ozel, F
+ Li, Y
+ Hayama, K
+ Weld, DM
+ Wahr, JM
+ Qusailah, MSS
+ Scherrer, RJ
+ Heckel, BR
+ Dickey, JO
+ TAVELLA, P
+ ADELBERGER, EG
+ WISEMAN, AG
+ Alarcon, A
+ Vernizzi, F
+ Vagnozzi, S
+ Noller, J
+ Saridakis, EN
+ Frusciante, N
+ Penarrubia, J
+ Lin, WK
+ Trinh, D
+ Manera, M
+ Perivolaropoulos, L
+ Hellwing, WA
+ Bose, B
+ Lin, CS
+ Namba, R
+ Miyashita, S
+ Capozziello, S
+ Yoshida, D
+ Rodriguez, Y
+ Bacon, D
+ Watson, S
+ Guarato, P
+ Tasinato, G
+ Pearson, JA
+ Jimenez, R
+ Bautista, JE
+ Zhang, PJ
+ Konnig, F
+ Finelli, F
+ Skillman, ED
+ Clesse, S
+ Mizuno, S
+ Mortsell, E
+ Tagoshi, H
+ Pettorino, V
+ Luongo, O
+ Baugh, C
+ Pilo, L
+ Busca, N
+ Zhao, HJ
+ Park, M
+ Bartolo, N
+ Sievers, J
+ Marriage, TA
+ Buniy, RV
+ Miralda-Escude, J
+ Motta, M
+ Saffin, PM
+ Shahidi, S
+ Cardone, V
+ Steer, DA
+ Tram, T
+ Wang, X
+ Garriga, J
+ Bourliot, F
+ Gao, J
+ Sasaki, M
+ Shankaranarayanan, S
+ Thompson, J
+ Lima, M
+ Starobinsky, A
+ Fang, W
+ Fu, XY
+ Shafieloo, A
+ Rodrigues, DC
+ Trincherini, E
+ Norena, J
+ Sorella, SP
+ Padmanabhan, N
+ Zunckel, C
+ Crittenden, RG
+ Kunduri, HK
+ Doran, M
+ SenGupta, S
+ Starkman, GD
+ Strauss, MA
+ Sibiryakov, S
+ Tkachev, II
+ Steinhardt, PJ
+ Trodden, M
+ Leach, SM
+ Waldram, D
+ Kang, ZB
+ Ethier, JJ
+ Li, RZ
+ Zhang, Y
+ Shanahan, PE
+ Lamm, H
+ Agostini, F
+ Turzynski, K
+ Szczerbiak, P
+ Wu, L
+ Tait, TMP
+ Benbow, W
+ Serce, H
+ Zavala, J
+ Eckert, D
+ Kwa, A
+ Witte, SJ
+ Tsai, YLS
+ Ichimura, K
+ Andre, M
+ Heisig, J
+ Caron, S
+ Arnquist, IJ
+ Pierpaoli, E
+ Duan, KK
+ Park, J
+ March-Russell, J
+ Dent, JB
+ Genolini, Y
+ Georgescu, A
+ Huang, XY
+ Yin, PF
+ Medina, AD
+ Balakishiyeva, D
+ Weniger, C
+ Klasen, M
+ Abdallah, J
+ Goncalves, D
+ Benkhali, FA
+ Giesen, G
+ Queiroz, FS
+ Unwin, J
+ Sanford, D
+ Tang, Y
+ Boehm, C
+ Horiuchi, S
+ Park, SC
+ Gramling, J
+ Ringwald, A
+ Strigari, L
+ Morgante, E
+ Pierce, A
+ Mikheyev, SP
+ Bolton, JS
+ Colaresi, J
+ Silverwood, H
+ Huang, WC
+ Feroz, F
+ Becherini, Y
+ Katz, E
+ Kulkarni, S
+ Sinha, K
+ Peim, G
+ Kowalska, K
+ Fichet, S
+ Pollmann, T
+ Beacom, JF
+ Ibarra, A
+ Li, DW
+ Abu-Zayyad, T
+ Antonelli, LA
+ Sreethawong, W
+ Rajagopalan, S
+ Riotto, A
+ Kraml, S
+ Wang, LT
+ Schwetz, T
+ Vertongen, G
+ Mambrini, Y
+ Edsjo, J
+ Semenov, A
+ Do Kim, H
+ Castellini, G
+ Nagai, M
+ Soldatenko, A
+ Senami, M
+ Rychkov, VS
+ Moroi, T
+ ROSZKOWSKI, L
+ Taylor, N
+ Gonzalez, C
+ Said, Z
+ Wickman, PO
+ Jen, FL
+ Adolphe, FSG
+ Owen, S
+ Lieu, SC
+ Huang, TC
+ Yung, BHW
+ Wong, B
+ Staver, JR
+ Shieh, SH
+ Chou, CY
+ Lundqvist, E
+ Danielsson, AT
+ Erduran, S
+ Lidar, M
+ Iaconangelo, C
+ Vinayagam, M
+ Creagh, C
+ Viiri, J
+ Lock, RM
+ Guastella, I
+ Wittmann, MC
+ Rangelov, G
+ Phelps, G
+ Soliman, SSM
+ El-Sherbini, TM
+ Foot, CJ
+ Seurin, Y
+ Richard, S
+ Stewart, J
+ Francis, B
+ Montoya, AK
+ Holmes, NG
+ Blue, J
+ Loptson, C
+ Sadler, PM
+ Chu, RY
+ Hamann, J
+ Jerzak, S
+ Schroeder, N
+ Jackson, DP
+ Miller, K
+ Watkins, J
+ Sherwood, B
+ Schunn, C
+ Kramer, LH
+ Matthews, MD
+ Lemons, PP
+ Macrander, CA
+ Treagust, DF
+ Koerndle, H
+ Christian, W
+ Cai, YH
+ Purc-Stephenson, R
+ Stage, FK
+ Schmidt, HG
+ Lux, E
+ Penton-Voak, I
+ Shackelford, TK
+ Moller, AC
+ Furnham, A
+ Knapp, LA
+ Carvalho, M
+ Flegr, J
+ Cousins, AJ
+ Stern, K
+ Lyle, KB
+ Esteves, F
+ Moreno-Barriusop, E
+ Hop, WCJ
+ PRYER, JB
+ BERSCHEID, E
+ Palermo, R
+ Trivers, R
+ Peters, M
+ Donnelly, M
+ Jansen, G
+ Winkielman, P
+ Moller, AP
+ Critchley, H
+ Ariely, D
+ Clark, A
+ Rubenstein, AJ
+ Castles, DL
+ Langlois, JH
+ Valentin, D
+ ROBERTS, T
+ Goertzen, RM
+ Geary, David C
+ Carnes, M
+ Adams, WK
+ Roehrig, GH
+ DWYER, JH
+ Buettner, HM
+ Clark, CJ
+ Apfel, N
+ Armstrong, N
+ Delaval, M
+ Robertson, J
+ Kim, M
+ Stamelos, IG
+ Schweigert, SA
+ Lamb, J
+ Wenderoth, MP
+ Peach, JM
+ Belanger, AL
+ Canetto, SS
+ Schimmoeller, PA
+ Wandersman, A
+ Offerdahl, E
+ Hambarchyan, M
+ Johnston, AM
+ Levy, SR
+ Applegate, B
+ Hornstra, L
+ Gross, JJ
+ McCrae, RR
+ Hawthorne, L
+ Estrada, M
+ Miller, BJ
+ Iyengar, SS
+ HENNESSEY, BA
+ Vichayapai, M
+ Eccleston, C
+ Babcock, T
+ Peplau, LA
+ Yamamoto, KR
+ Armstrong, PI
+ Schofield, JW
+ Levine, SC
+ Cadinu, M
+ Greenwald, AG
+ Hogan, D
+ Espinoza, G
+ Hendricks, BL
+ Putallaz, M
+ Linn, MC
+ Gottfried, AW
+ Hill, NE
+ Schiller, KS
+ Johnson, RT
+ Frank, K
+ Hennig, J
+ Turner, JC
+ Kaplan, A
+ Maltese, AV
+ Greenberg, J
+ Lehmann, W
+ Carson, KA
+ Lourenco, SF
+ Roach, KA
+ Lapan, RT
+ Barquissau, M
+ Malanchuk, O
+ Glahn, D
+ STIGLER, JW
+ BERENBAUM, SA
+ Lima, OK
+ Buyse, E
+ Thakral, C
+ Perry, KE
+ Swanson, J
+ De Bruyn, EH
+ Pianta, R
+ Keane, SP
+ Booth, CL
+ Caspi, A
+ Lockwood, C M
+ Nokes-Malach, T
+ Sayre, EC
+ Lin, MH
+ Takaro, TK
+ Lewis, JE
+ Espinosa, LL
+ Spilt, JL
+ Ramos-Wada, A
+ Mutz, R
+ Drezner, ND
+ Garcia, GA
+ Topp, S
+ Han, J
+ Sullivan, N
+ Paris, AH
+ Beattie, C
+ Mensah, FM
+ Schwartz, S
+ Damtie, B
+ Rebello, NS
+ Bell, M
+ Stromdahl, H
+ Niewiadomska-Bugaj, M
+ Wolfensohn, S
+ Luger, L
+ Lin, PL
+ Hunsinger, M
+ Ludtke, O
+ Jordan, CL
+ Brand, S
+ Chen, HL
+ Gedde, NL
+ Shen, DM
+ Ho, A
+ Watson, TL
+ CARPENTER, AJ
+ McDermott, LC
+ Finkelstein, N
+ Tamaki, K
+ PIKE, CL
+ Fukami, T
+ Harcourt, AH
+ Sackett, PR
+ Krulwich, TA
+ Nikitaras, N
+ Mac Iver, DJ
+ Perry, DG
+ Pasterski, VL
+ Tenenbaum, HR
+ Ogilvie, CA
+ Liang, JC
+ Winters, FI
+ Hoshino, RL
+ Halliwill, JR
+ Barnett, SM
+ Hannover, B
+ Ni, CQ
+ Grodsky, E
+ Levine, R
+ Trouilloud, D
+ Abbott, RD
+ MATHESON, CC
+ Parchmann, I
+ Amin, TG
+ Redish, EF
+ Alvegard, C
+ Parks, John W
+ Verriere, M
+ Dzhioev, AA
+ Hoffman, CR
+ Nikas, S
+ Stromberg, DF
+ Hosseinzadeh, A
+ Laming, JM
+ Cizewski, JA
+ Kereszturi, A
+ Kurkela, A
+ Horowitz, CJ
+ Czeszumska, A
+ Ivanov, DA
+ Lohs, A
+ Ullmann, JL
+ Takhistov, V
+ Heftrich, T
+ Klahn, T
+ Agramunt, J
+ Ichikawa, T
+ Bruenn, SW
+ Summa, A
+ Amouroux, C
+ Thompson, IJ
+ Fang, DL
+ Xu, ZY
+ Bartl, A
+ Nakada, H
+ Manailescu, C
+ Crowter, R
+ Eriksen, TK
+ Lemaitre, JF
+ Ropke, F
+ Bertone, PF
+ Wapstra, AH
+ Adekola, AS
+ Fujimoto, SI
+ Bengtsson, R
+ Sagawa, H
+ Deng, YG
+ Besselman, M
+ Escher, J
+ Ring, P
+ Scholl, TJ
+ Hosmer, PT
+ Fallot, M
+ Nowacki, F
+ Uno, M
+ Mezilev, KA
+ Wohr, A
+ THIELEMANN, FK
+ IGNATYUK, AV
+ Zhao, PW
+ Leistenschneider, E
+ Babcock, C
+ Li, ZP
+ Wen, PW
+ Yin, JP
+ Bezbakh, AA
+ Sedykh, IY
+ Huong, LTQ
+ Aurand, B
+ Niksic, T
+ Satula, W
+ Roche, KJ
+ Ahn, S
+ Prosper, HB
+ Higdon, D
+ Jeong, SC
+ Reiter, P
+ Carr, H
+ Reinhard, PG
+ Ray, D
+ Toivanen, J
+ Ivanyuk, F
+ Borzov, IN
+ Zenginerler, Z
+ Greenlees, PT
+ Schuck, P
+ Savard, G
+ Bertsch, GF
+ Johnson, TD
+ Chowdhury, U
+ Wakasugi, M
+ Suzuki, H
+ Krticka, M
+ More, J
+ Nakatsukasa, T
+ Gernoth, KA
+ Mizuyama, K
+ Hirsch, M
+ Beard, M
+ Cosentino, L
+ Johnson, MG
+ Maltoni, M
+ Kim, A
+ Kubono, S
+ Smith, K
+ Saxena, RK
+ Haas, F
+ Sala, G
+ Noda, T
+ Bick, D
+ Gando, A
+ Ames, F
+ Kamimura, M
+ Fujimoto, S
+ Negreiros, RP
+ Fujita, H
+ Sugathan, P
+ Aguilera, EF
+ Goldring, G
+ Andersen, TC
+ Simpson, EC
+ Rusev, G
+ Knie, K
+ Ferrer, R
+ Amsbaugh, JF
+ Balata, M
+ Daigle, S
+ Aguer, P
+ Ptuskin, VS
+ Hong, SW
+ Arndt, O
+ Bishop, S
+ Mayer, A
+ Barnard, V
+ Hughes, RO
+ Palczewski, M
+ Tain, JL
+ Fijalkowska, A
+ Chatillon, A
+ Grzywacz, RK
+ Yokoyama, R
+ Naqvi, F
+ Ghys, L
+ Gross, CJ
+ McCutchan, EA
+ Lee, CS
+ Tanihata, I
+ Kurtukian-Nieto, T
+ Czok, U
+ Gottardo, A
+ Van Duppen, P
+ Farget, F
+ Orr, NA
+ Sakai, H
+ Uribarri, AG
+ Pietri, S
+ Gaulard, C
+ Amthor, M
+ Hayakawa, T
+ Lopez-Urrutia, JRC
+ Froese, M
+ Sonnabend, K
+ Pinston, JA
+ Zhang, CT
+ Werner, TR
+ Zhou, SG
+ Menegazzo, R
+ Andreotti, E
+ Tamii, A
+ Burjan, V
+ Fedorov, DV
+ Platter, L
+ Miele, G
+ Peterson, RJ
+ Perdue, BA
+ Fonseca, M
+ Snover, KA
+ Rodin, V
+ Yan, SQ
+ Bruneliere, R
+ Yokomakura, H
+ Zhang, SQ
+ Takahisa, K
+ Powell, DC
+ Maglione, E
+ ROLFS, C
+ TSURUTA, K
+ LESLIE, JR
+ LANGANKE, K
+ Berthoumieux, E
+ Bond, EJ
+ Krasa, A
+ Kadi, Y
+ Goko, S
+ Mengoni, A
+ Schumann, D
+ Gao, HY
+ Kienle, P
+ Esch, EI
+ Wagemans, J
+ Goeminne, G
+ Bernstein, L
+ Ahmad, I
+ Juseviciute, A
+ Alvarez-Velarde, F
+ Arlandini, C
+ Assimakopoulos, PA
+ Theis, C
+ LINKER, G
+ GUBER, K
+ OBRIEN, HA
+ Rasanen, S
+ Wen, DH
+ Mochalov, MA
+ Li, ZH
+ Cuong, DC
+ Fiebiger, S
+ Lica, R
+ Strieder, F
+ Bihalowicz, JS
+ Martini, M
+ Oertel, M
+ Pederiva, F
+ Kiener, J
+ Plag, R
+ Khandaker, M
+ Rosse, B
+ Oblozinsky, P
+ Carlson, BV
+ Nagai, Y
+ Casoli, P
+ Sampaio, JM
+ Sturm, S
+ Authelet, G
+ Barzakh, AE
+ Kiyokawa, Y
+ Kiyokawa, Y
+ Claessens, C
+ Dicke, T
+ Homma, M
+ Yuan, CX
+ Arenz, M
+ Doornenbal, P
+ Dissanayake, J
+ Ebert, J
+ Yang, HB
+ Bao, XJ
+ Slavkovska, Z
+ Jonson, B
+ Fomichev, AS
+ Dunling, E
+ Solders, A
+ Orford, R
+ Drozdowski, OM
+ Eibach, M
+ Rudolph, D
+ Gulyuz, K
+ Glorius, J
+ Kondo, Y
+ Blell, U
+ Kracke, H
+ Nishimura, D
+ Stohlker, T
+ Haettner, E
+ Andersson, LL
+ Alexander, C
+ Raabe, R
+ Oinonen, M
+ Wild, SM
+ Sharma, KS
+ Boutin, D
+ Winkler, R
+ Myers, EG
+ Beckert, K
+ Aksouh, F
+ Sugimoto, T
+ Deslattes, RD
+ Ewald, G
+ Radon, T
+ Davies, DA
+ Grahn, T
+ Santos, JP
+ Biscoveanu, S
+ Aiello, L
+ Kijbunchoo, N
+ Gayathri, V
+ Munoz, JB
+ Bohe, A
+ Benic, S
+ Fritschel, P
+ McMillan, S
+ Lubos, D
+ Niikura, M
+ Soderstrom, PA
+ Baba, H
+ Wu, CY
+ Kibedi, T
+ Radulov, D
+ Shimizu, N
+ Takeuchi, S
+ Jin, H
+ Lerma, S
+ Ishii, Y
+ Ohnishi, T
+ Marginean, N
+ Wadsworth, R
+ Casarejos, E
+ Kusaka, K
+ Honma, M
+ Sarriguren, P
+ Avgoulea, M
+ Bree, N
+ Zhi, QJ
+ Sohler, D
+ Gros, S
+ Hamilton, JH
+ Wyss, R
+ Fujimoto, R
+ Doring, J
+ Kaji, D
+ Horoi, M
+ Caggiano, JA
+ Mukha, I
+ Korten, W
+ BYRNE, AP
+ ICHIHARA, T
+ Piatti, D
+ Mastromarco, M
+ Bonasera, A
+ Caciolli, A
+ Kokalova, T
+ Verde, G
+ Leone, F
+ Setiawan, H
+ Buompane, R
+ Kupny, S
+ Conte, F
+ Acosta, L
+ McCleskey, M
+ Balabanski, DL
+ Kim, Y
+ Trautmann, W
+ Zilges, A
+ Bertani, M
+ Russotto, P
+ Albataineh, H
+ Andronic, A
+ Brenna, M
+ Andres, MV
+ Cherubini, S
+ Lynch, WG
+ Alba, R
+ Guglielmetti, A
+ Jenkins, D
+ Reisdorf, W
+ Martinez-Quiroz, E
+ Amorini, F
+ Zhang, SN
+ Bouquillon, S
+ Chatterji, S
+ Gossan, S
+ Bhattacharyya, A
+ Jansen, N
+ Rodrigues, M
+ Auger, G
+ Pavlis, EC
+ Plewa, PM
+ Cingoz, A
+ Rovera, D
+ Kinsella, G
+ Wang, QL
+ Cheuk, LW
+ Radu, E
+ Campbell, GK
+ Wagner, TA
+ Luo, J
+ Onegin, MS
+ Stoica, H
+ Schnatz, H
+ Zimmermann, M
+ Krauss, LM
+ Braxmaier, C
+ Tanaka, U
+ Geraci, AA
+ Clairon, A
+ Smirnov, J
+ Shao, CG
+ Velten, H
+ Crites, A
+ Yokoyama, J
+ Aguirre, P
+ Tsoukalas, M
+ Tolley, A
+ Weinfurtner, S
+ Myers, RC
+ Navarro, I
+ Parameswaran, SL
+ Boyda, D
+ Maris, P
+ Ebran, JP
+ van Kolck, U
+ Frey, M
+ Powell, H
+ Buzinsky, N
+ Giuliani, S
+ Liu, J
+ Wei, HL
+ Zhou, K
+ Goncalves, M
+ Carrazza, S
+ Bass, SA
+ Liu, Y
+ Dimitrakakis, C
+ Tomin, S
+ Wang, XN
+ Sun, BH
+ Luecke, GR
+ Rothkopf, A
+ Melendez, JA
+ Olness, F
+ Rokash, A
+ Moutarde, H
+ Sorensen, P
+ Pal, S
+ Schafer, A
+ Maruhn, JA
+ Becirevic, D
+ Sharpe, SR
+ Doi, T
+ Holl, M
+ Horz, B
+ Marcucci, LE
+ Ipsen, I
+ Fallica, J
+ Morris, TD
+ Nosyk, Y
+ Michel, N
+ Kubis, B
+ Miya, H
+ Wendt, KA
+ Cohen, SD
+ Lahde, TA
+ Lee, D
+ Liu, C
+ SCHIAVILLA, R
+ Patel, HH
+ Leutwyler, H
+ Ahmed, S
+ Guo, XY
+ Papinutto, M
+ Korzec, T
+ Prokudin, A
+ Adamek, E
+ Tarantino, C
+ Ben-Haim, E
+ Murakami, Y
+ Hadjiyiannakou, K
+ Harrison, J
+ Meinel, S
+ Adinolfi, M
+ Gamiz, E
+ Ueda, T
+ Alexandru, A
+ Lytle, AT
+ Aielli, G
+ Perlt, H
+ Blumlein, J
+ Tiburzi, BC
+ Marquard, P
+ Hoelbling, C
+ Marinkovic, MK
+ Ai, XC
+ Gupta, R
+ Knippschild, B
+ Mateu, V
+ Lottini, S
+ Engel, GP
+ Thomas, CE
+ Wagner, M
+ Bouchard, CM
+ Maiti, J
+ Giardino, PP
+ Wittig, H
+ Monahan, C
+ Adachi, I
+ Michael, C
+ Detar, C
+ Deissenroth, M
+ Bagdasarova, Y
+ Collins, S
+ Leder, B
+ Essig, R
+ Toucas, G
+ Rae, TD
+ Rothen, L
+ Nagy, A
+ Oset, E
+ von Hippel, GM
+ Hoff, J
+ Virotta, F
+ Ukawa, A
+ Wolff, U
+ Soto, J
+ Bauer, D
+ Ishizuka, N
+ Spielmann, D
+ Carbonell, J
+ Wettig, T
+ Wong, KY
+ Sumino, Y
+ Maillart, V
+ von Hippel, G
+ Chiu, TW
+ Kenway, RD
+ Sturm, C
+ Gockeler, M
+ Osborn, JC
+ Onishchenko, AI
+ Haefeli, C
+ Hagler, P
+ Luscher, ML
+ Katz, SD
+ Le Yaouanc, A
+ DeTar, C
+ Eidemuller, M
+ Irving, AC
+ Pich, A
+ Kuramashi, Y
+ Laine, M
+ Gray, A
+ Koroma, S
+ Podolefsky, NS
+ Syed, M
+ Maitner, AT
+ Mohammedein, AM
+ Wieman, C
+ Ghosh, P
+ Tenkanen, T
+ Adam, W
+ Korsmeier, M
+ Cui, XY
+ Mukhopadhyaya, B
+ Bai, X
+ Desch, K
+ Aramaki, T
+ Strigari, LE
+ Koushiappas, SM
+ Adesso, G
+ Zwirner, F
+ Haga, Y
+ Ruiz-Femenia, P
+ Hewett, JL
+ Williams, AJ
+ Malik, SA
+ Alton, A
+ Citron, M
+ Volansky, T
+ Hryczuk, A
+ Aisa, D
+ Adams, J
+ Taoso, M
+ Zheng, JM
+ De Roeck, A
+ Hollik, W
+ Asai, M
+ Cappella, F
+ Savage, C
+ Patel, KM
+ Carter, D
+ Stal, O
+ de Austri, RR
+ Pinner, D
+ Ovanesyan, G
+ Lavoura, L
+ Racioppi, A
+ Choi, JH
+ Regis, M
+ Chen, CR
+ Malinovsky, AM
+ Teixeira, AM
+ Kolb, EW
+ Richard, J
+ Wyler, D
+ Brun, P
+ Krauss, F
+ Gigg, M
+ Kane, G
+ Giudice, GF
+ Takayama, F
+ Matchev, KT
+ Sun, T
+ Scheidenberger, C
+ Bricault, P
+ Bergmann, J
+ Redshaw, M
+ Chan, KC
+ Leung, DYP
+ Vekiri, L
+ Tibbetts, Y
+ Aleven, V
+ MacPhee, C
+ Lovell, MR
+ PATRICK, BC
+ Levy, J
+ Chen, YC
+ Luo, Y
+ Liu, A
+ Parker, PD
+ Schuller, M
+ Plass, JL
+ Clarebout, G
+ Savelsbergh, ER
+ VanLehn, K
+ Hastings, JK
+ Hart, SA
+ Riggers-Piehl, TA
+ Block, K
+ McMillan, BD
+ Barden, J
+ Svoboda, RC
+ Katagiri, Z
+ Teeter, SR
+ Craig, A
+ Kahn, S
+ Lorah, JA
+ Briley, DA
+ Chase, JP
+ Loken, E
+ Furse, C
+ Higgins, A
+ Paretti, MC
+ Beier, ME
+ Handron, C
+ Lee, CH
+ Hell, B
+ Salmela-Aro, K
+ Schneider, B
+ Simonsohn, U
+ Troisi, JD
+ Fulcher, M
+ Katz, AD
+ Petersen, JL
+ Davies, PG
+ Burnaford, RM
+ Thompson, S
+ Cohen, D
+ Schindler, H
+ Kyser, B
+ Scheckler, R
+ Li, E
+ Shea, DL
+ Stemmler, G
+ Grant, AM
+ Anicich, EM
+ Reid, L
+ BECKER, RE
+ Blair, IV
+ Main, JC
+ Stirrat, MR
+ Fernbach, E
+ Marlowe, FW
+ Boothroyd, LG
+ Raymond, M
+ Seydel, H
+ Shimojo, S
+ Correll, M
+ Gosling, LM
+ Mizokami, Y
+ Milne, AB
+ Townsend, GC
+ ABRAHAMS, D
+ Jordan, BD
+ Shamir, B
+ Hodges, K
+ WEISMAN, RG
+ Dehaene, W
+ Cho, YH
+ Bornstein, MH
+ Fischer, HE
+ Sim, J
+ Sim, J
+ van Driel, JH
+ Torregrosa, JM
+ Wooff, D
+ Moreno, M
+ de Miranda, MA
+ Page, M
+ Lesh, RA
+ Ness, B
+ OLSON, RE
+ Tyler-Wood, T
+ Needham, M
+ Tran, L
+ Schober, B
+ Asma, LJF
+ Kern, A
+ Gilbert, SL
+ Rudd, JA
+ Wischusen, EW
+ Harris-Boundy, J
+ Driver-Linn, E
+ Silbey, S
+ Szollosi, E
+ Pitre, E
+ Wenderoth, AP
+ Burg, S
+ Tansey, C
+ Huyvaert, KP
+ West, JE
+ Jensen, JM
+ Cimpian, JR
+ Hodari, A
+ Meyer, M
+ Givvin, KB
+ Cech, E
+ Kennedy, GE
+ Ciganek, AP
+ Littlejohn, A
+ Lanfear, R
+ McDonough, M
+ Wills, TW
+ Sriram, N
+ McConnell, AR
+ Liben, LS
+ Yamawaki, N
+ Buboltz, WC
+ Seymour, E
+ Finney, SJ
+ Guay, F
+ Cwir, D
+ Wagner, DE
+ Burket, R
+ Ratmansky, L
+ Kenny, S
+ Sumner, RA
+ Sapienza, P
+ McLoyd, VC
+ Belmonte, MK
+ Barber, B
+ Tseng, V
+ Morelock, MJ
+ Hayes, TL
+ Mashburn, A
+ Christenson, SL
+ Hanisch, M
+ Spencer, S
+ Hindman, AH
+ Seegers, G
+ Peterson, NA
+ Thomas, LL
+ Armstrong, JM
+ Wright-Phillips, MV
+ Clifford, RM
+ Buhs, ES
+ Swank, PR
+ Doumen, S
+ Allen, JP
+ Greenberg, Mark T
+ Martin, CL
+ Kersey, HB
+ Forehand, R
+ Martin, JM
+ Jackson, T
+ Caprara, GV
+ HAROLD, RD
+ CAUSEY, D
+ Spinrad, TL
+ Downer, JT
+ Jitendra, AK
+ Elder, GH
+ Williams, J
+ Hennessy, SM
+ DAUBER, SL
+ YARMEL, PW
+ Lansford, JE
+ Hoffman, JM
+ VEGA, WA
+ Morgan, J
+ Fuligni, A
+ Kohen, DE
+ McAdoo, HP
+ McCormick, MC
+ Hammond, M
+ Murray, R
+ Steinberg, L
+ Leventhal, T
+ McCarton, C
+ Jenkins, R
+ MUNDFROM, DJ
+ ZAMSKY, ES
+ Blankemeyer, M
+ Bryant, DM
+ Talley, M
+ LIAW, FR
+ PAWL, JH
+ BRYANT, DM
+ HOWELL, CT
+ Lieb, P
+ Kang, S
+ Rosabianca, A
+ Ross, L
+ Keating, D
+ Gary, ML
+ Makel, MC
+ Russell, D
+ Saporta, K
+ Bradley, L
+ Showers, CJ
+ Harder, JA
+ Markey, PM
+ Cifa, C
+ Mahaffey, AL
+ Young, MJ
+ Kleck, RE
+ Mehu-Blantar, I
+ Santos, IM
+ Cardenas, RA
+ Matts, PJ
+ DeBruine, L
+ Ball, JH
+ Peterson, ZD
+ DENCH, N
+ Fuchs, D
+ Chugh, D
+ McMahon, RJ
+ DUYVESTEYN, MGC
+ Cox, BD
+ Stasson, MF
+ Wakelin, D
+ Liew, J
+ Prislin, R
+ Rasul, S
+ Howard, C
+ Wojciszke, B
+ Evans, AC
+ Vitaro, F
+ Waas, GA
+ Ullman, JB
+ Lekes, N
+ Wood, W
